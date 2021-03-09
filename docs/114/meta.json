@@ -1,0 +1,66 @@
+    {
+ "id": "114",
+ "language": "de",
+ "title": "Entstehung neuer Gletscherseen in den Schweizer Alpen. Land- und wirtschaftliche Aufwertung oder neue Bedrohung von oben?",
+ "abstract": "Die Veränderungen durch den Klimawandel begleiten und bestimmen mittlerweile unser aller Leben. Die Temperaturen steigen, worunter besonders die Gletscher weltweit zu kämpfen haben. In den letzten Jahrzehnten schwinden diese immer schneller. Aus den abfließenden Schmelzwässer entstehen Gletscherseen. Doch diese führen zu Risiken, als auch Chancen für die Bevölkerungen. Welche das sein können, wird hier anhand des Beispiels der Gletscherseen in den Schweizer Alpen ergründet.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/114/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/114/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Sebastian",
+     "name": "Braun",
+     "email": "sebastian.braun@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Schweiz",
+   "region": "Alpen",
+   "city": null,
+   "landscape": "Gebirge",
+   "latitude": 46.3985128,
+   "longitude": 8.71902822,
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Risikoanalyse",
+ "topic": "Klimaänderung",
+ "subtopic": "Landnutzung",
+ "keywords": ["Gletschersee","Klimawandel","Chancen- und Risiken","Energie","Wasser"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
