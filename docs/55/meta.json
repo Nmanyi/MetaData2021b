@@ -1,0 +1,69 @@
+{
+ "id": "55",
+ "language": "de",
+ "title": "Küstenschutz im Klimawandel - Wie man Inseln vor dem Untergang bewahren kann",
+ "abstract": "Der Klimawandel stellt die Bewohner*innen der Inseln Ozeaniens vor große Herausforderungen. Neben Temperaturerhöhung und der Zunahme von Extremwetterereignissen, wird primär der steigende Meeresspiegel die Zukunft der Inseln beeinflussen. Dieser kann zu verstärkter Erosion der Küsten führen und schließlich kann die Lebensgrundlage der Bewohner*innen zerstören. Um die Resilienz gegenüber diesen Umweltveränderungen zu erhöhen, können unterschiedliche Maßnahmen ergriffen werden. Eine Kombination aus verschiedenen natürlichen und baulichen Maßnahmen kann helfen, die Inseln vor Erosion zu schützen und einige vor dem Untergang zu bewahren. ",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/55/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/55/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/55/icon.png",
+ "authors": [
+   { 
+     "firstname": "Florian",
+     "name": "Jehn",
+     "email": "flojehn@posteo.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Ozeanien",
+   "ocean": "Pazifik"
+   "country": "",
+   "region": "Pazifik",
+   "city": "",
+   "landscape": "Inseln",
+   "latitude": 0,
+   "longitude": 0
+ },
+ "period": {
+    "begin": null,
+    "end": null
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Klimawandel",
+ "subtopic": "Meeresspiegel",
+ "keywords": ["Küstenschutz","Erosion","Inselstaaten"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
