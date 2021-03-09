@@ -1,0 +1,66 @@
+{
+ "id": "48",
+ "language": "de",
+ "title": "'Spaniens Wasserzukunft - Wasser marsch?",
+ "abstract": "Der Klimawandel beeinflusst den Wasserhaushalt verschiedener Regionen. Spanien wird in naher Zukunft unter starkem Wassermangel, insbesondere durch die intensive Landwirtschaft leiden. Dieser Prozess wird durch Extremwetterereignisse, die Gletscherschmelze und den ansteigenden Meeresspiegel verstärkt werden.",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/48/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/48/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/48/icon.png",
+ "authors": [
+   { 
+     "firstname": "Rahel",
+     "name": "Flubacher",
+     "email": "rahel.flubacher@stud.ph-freiburg.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Spanien",
+   "landscape": "Mediterran",
+   "latitude": 37.00,   
+   "longitude": -6.00
+ },
+ "period": {
+    "begin": 2000,
+    "end": 2050
+ },
+ "concept": "Footprint",
+ "topic": "Klimaextreme",
+ "subtopic": "Wasser",
+ "keywords": ["Wassermangel"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2001,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
