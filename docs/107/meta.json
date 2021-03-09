@@ -1,0 +1,66 @@
+{
+ "id": "107",
+ "language": "de",
+ "title": "Die Mosel: ein beschaulicher Nebenfluss des Rheins?",
+ "abstract": "Die Mosel hat eine Gesamtlänge von 544 km und fließt durch 3 Länder. Oft wird die Mosel als beschaulicher Nebenfluss des Rheins angesehen. Doch wie ist die Situation in Wirklichkeit? Hochwasser ist kein neues Phänomen und tritt regelmäßig auf! Eine Analyse der Hochwassersituation anfang des Jahres 2021. Zwischen Vulnerabilität und Resilienz",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/107/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/107/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/107/icon.png",
+ "authors": [
+   { 
+     "firstname": "Yannick",
+     "name": "Bertrand",
+     "email": "yannick.bertrand100@yahoo.de",
+     "freidok":"",
+     "orcid": ""
+   },
+ ],
+ "location": {
+   "continent": "Europa",
+   "countries": ["Frankreich, Deutschland, Luxemburg"],
+   "region": "Mosel",   
+   "landscape": "Fluss",
+   "latitude": 50.365556,
+   "longitude": 7.606278,
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Vulnerabilität & Resilienz",
+ "topic": "Klimaextreme",
+ "subtopic": "Hochwasser",
+ "keywords": ["Wasser","Vulnerabilität","Resilienz"], 
+ "sources": [
+   {
+      "type": "Article",
+      "authors": "Böschel, G., Viglione, A., Merz, R. et al.",
+      "year": 2011
+      "title": "Auswirkungen des Klimawandels auf Hochwasser und Niederwasser",
+      "doi": "https://doi.org/10.1007/s00506-010-0269-z",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Springer Natur",
+      "pages": "21-30"
+   },
+   {
+      "type": "Book",
+      "authors": "Patt, H., Jüpner, R.",
+      "year": 2001,
+      "title": "Hochwasser-Handbuch. Auswirkungen und Schutz",
+      "doi": "https://doi.org/10.1007/978-3-658-26743-8",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Springer Vieweg",
+      "pages": "715"
+   }
+ ]
+  
+
+
+}
