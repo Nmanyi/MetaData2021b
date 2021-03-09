@@ -61,7 +61,7 @@
       "volume": null,
       "publisher": "The Economist Intelligence Group",
       "pages": null
-   }
+   },
    {
       "type": "Journal Article",
       "authors": "Lobell, D.B., Burke, M.B., Tebaldi, C., Mastrandrea, M.D., Falcon, W.P., Naylor, R.L., ",
@@ -73,7 +73,7 @@
       "volume": "319",
       "publisher": "Science",
       "pages": "3"
-   }
+   },
    {
       "type": "Journal Article",
       "authors": "Myers, S.S., Smith, M.R., Guth, S., Golden, C.D., Vaitla, B., Mueller, N.D., Dangour, A.D., Huybers, P., ",
@@ -85,7 +85,7 @@
       "volume": "38",
       "publisher": "Annual Review of Public Health ",
       "pages": "18"
-   }
+   },
    {
       "type": "Software",
       "authors": "QGIS Association",
@@ -97,7 +97,7 @@
       "volume": null,
       "publisher": "QGIS Association",
       "pages": null
-   }
+   },
    {
       "type": "Journal Article ",
       "authors": "Schmidhuber, J., Tubiello, F.",
@@ -109,7 +109,7 @@
       "volume": "104",
       "publisher": "Proceedings of the National Academy of Sciences of the United States of America",
       "pages": "7"
-   }
+   },
    {
       "type": "Journal Article",
       "authors": "Wheeler, T., von Braun, J",
@@ -121,7 +121,7 @@
       "volume": "341",
       "publisher": "Science",
       "pages": "5"
-   }
+   },
    {
       "type": "Infographic",
       "authors": "UN: World Food Programe",
@@ -133,7 +133,7 @@
       "volume": null,
       "publisher": "UN: World Food Programe",
       "pages": "1"
-   }
+   },
    {
       "type": "Shapefile",
       "authors": "ESRI",
@@ -145,7 +145,7 @@
       "volume": null,
       "publisher": "ESRI",
       "pages": null
-   }
+   },
    {
       "type": "Report",
       "authors": "IPCC",
@@ -157,7 +157,7 @@
       "volume": null,
       "publisher": "",
       "pages": ""
-   }
+   },
    {
       "type": "Report",
       "authors": "FAO",
