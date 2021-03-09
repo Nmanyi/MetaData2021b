@@ -1,0 +1,67 @@
+{
+ "id": "96",
+ "language": "de",
+ "title": "Das Problem Glyphosat in Deutschland – Unser täglich Gift?",
+ "abstract": "---",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/96/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/96/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/96/icon.png",
+ "authors": [
+   { 
+     "firstname": "Sophie",
+     "name": "Denzel",
+     "email": "sophie.denzel@stu.dph-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": 51.0,
+   "longitude": 7.5
+ },
+ "period": {
+    "begin": 2000,
+    "end": 2020
+ },
+ "concept": "Diskursanalyse",
+ "topic": "Landwirtschaft",
+ "subtopic": "Altlasten",
+ "keywords": ["Herbizid","Toxizität","Ökologie", "Ökonomie","Deutschland"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
