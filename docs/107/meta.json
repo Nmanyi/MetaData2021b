@@ -16,7 +16,7 @@
      "email": "yannick.bertrand100@yahoo.de",
      "freidok":"",
      "orcid": ""
-   },
+   }
  ],
  "location": {
    "continent": "Europa",
@@ -24,7 +24,7 @@
    "region": "Mosel",   
    "landscape": "Fluss",
    "latitude": 50.365556,
-   "longitude": 7.606278,
+   "longitude": 7.606278
  },
  "period": {
     "begin": 2021,
