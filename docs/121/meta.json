@@ -1,0 +1,67 @@
+{
+ "id": "121",
+ "language": "de",
+ "title": "Afrikas Grüne Mauer - Die Rettung?",
+ "abstract": "Desertifikation stellt eine der größten Herausforderungen des 21. Jahrhunderts dar. Besonders betroffen ist dabei Afrika, in erster Linie die Länder südlich der Sahara. Um einer weiteren Ausbreitung der Sahara Richtung Süden entgegenzuwirken, soll im Zuge des Projekts 'Great Green Wall' ein Grünstreifen entstehen, der sich von Dakar im Westen bis nach Dschibuti im Osten erstreckt. Lokale Initiativen arbeiten an der Umsetzung, damit unter anderem 100 Mio. Hektar unfruchtbares Land wiederhergestellt werden und so die Lebensmittelsicherheit der Menschen gesichert wird.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/121/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/121/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/121/icon.png",
+ "authors": [
+   { 
+     "firstname": "Melanie",
+     "name": "Nosbüsch",
+     "email": "melliN96@web.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "",
+   "region": "Sahel",
+   "city": "",
+   "landscape": "Wüste",
+   "latitude": "11.172391",
+   "longitude": "10.560169"
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Critical Zones",
+ "topic": "Desertifikation",
+ "subtopic": "Landnutzung",
+ "keywords": ["Bodendegradation","Sahara","Renaturierung"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
