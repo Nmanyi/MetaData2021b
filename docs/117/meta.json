@@ -1,0 +1,132 @@
+{
+ "id": "117",
+ "language": "en",
+ "title": "Drowning in Plastic - China’s Decisive Role in a Global Matter",
+ "abstract": "Our own creations are often the undoing of us and our environment, as the example of plastic pollution in the ocean clearly shows. The ecological, monetary and health consequences of this substance input are already alarming and incalculable. If a business-as-usual approach is followed, the weight of plastic could already exceed that of fish stocks by 2050. In particular, China, as the most populous country, is the largest consumer and producer of plastic and has been considered the dumping ground of the world due to its plastic import-based recycling industry. The future of the plastics industry and management, whether positive or negative, could therefore depend heavily on China.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/117/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/117/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Alicia",
+     "name": "Vollmer",
+     "email": "ala.vollmer@web.de",
+     "freidok":"",
+     "orcid": "0000-0002-2574-2735"
+   }
+ 
+ ],
+ "location": {
+   "continent": "Asia",
+   "country": "China",
+   "region": "",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": 30.883369,
+   "longitude": 122.016001
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2021
+ },
+ "concept": "Footprint",
+ "topic": "Verschmutzung",
+ "subtopic": "Stoffkreisläufe",
+ "keywords": ["plastic", "plastic pollution", "waste management","decomposition", "dumping ground", "plastic ban", "plastic import", "ocean pollution"], 
+ "sources": [
+   {
+      "type": "website",
+      "authors": "UNEP",
+      "year": ,
+      "title": "Our planet is drowning in plastic pollution-it’s time for change!",
+      "doi": "",
+      "url": "https://www.unep.org/interactive/beat-plastic-pollution",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "web-article",
+      "authors": "Albert, E.",
+      "year": 2020,
+      "title": "China Tackles Its Plastic Problem",
+      "doi": "",
+      "url": "https://thediplomat.com/2020/01/china-tackles-its-plastic-problem/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+   {
+
+"type": "website",
+      "authors": "Joe, T. ",
+      "year": 2021,
+      "title": "China Single-Use Plastic Bag & Straw Ban Now In Effect Across Major Cities",
+      "doi": "",
+      "url": "from https://www.greenqueen.com.hk/china-single-use-plastic-bag-straw-ban-now-in-effect-across-major-cities/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+  {
+
+"type": "website",
+      "authors": "Plastic Soup Foundation",
+      "year": 2018,
+      "title": "Trophic Transfer of Microplastics in Seals confirmed",
+      "doi": "",
+      "url": "https://www.plasticsoupfoundation.org/en/2018/09/trophic-transfer-of-microplastics-in-seals-confirmed/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ {
+
+"type": "web-article",
+      "authors": "WWF",
+      "year": 2018,
+      "title": "The lifecycle of plastics",
+      "doi": "",
+      "url": "https://www.wwf.org.au/news/blogs/the-lifecycle-of-plastics#gs.uplifl",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ {
+
+"type": "web-article",
+      "authors": "European Parliament",
+      "year": 2018,
+      "title": "Plastic in the ocean: The facts, effects and new EU rules",
+      "doi": "",
+      "url": "https://www.europarl.europa.eu/news/en/headlines/society/20181005STO15110/plastic-in-the-ocean-the-facts-effects-and-new-eu-rules",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+{
+
+"type": "report",
+      "authors": "World Economic Forum, Ellen MacArthur Foundation, McKinsey & Company",
+      "year": 2016,
+      "title": "The New Plastics Economy. Rethinking the Future of Plastics",
+      "doi": "",
+      "url": "https://www.ellenmacarthurfoundation.org/our-work/activities/new-plastics-economy/publications/reports",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+]
+  
+
+
+}
