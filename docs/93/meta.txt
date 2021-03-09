@@ -1,0 +1,69 @@
+{
+ "id": "93",
+ "language": "de",
+ "title": "Essen wir in der EU den Regenwald in Brasilien?",
+ "abstract": "Zusammenhänge des europäischen Konsums mit der Zerstörung des Amazonas-Regenwaldes UND der Cerrado Savanne in Brasilien durch Sojaanbau: Welche (negativen) Folgen hat der "Sojaboom" für Brasilien?  Es werden sowohl der Amazonas-Regenwald als auch zunehmend die Cerrado-Savanne zerstört, um großflächig Sojafelder anzulegen und die Ernte unter anderem nach Europa zu exportieren. Hier wird der Großteil des Sojas an Schlachtvieh verfüttert.",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/93/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/93/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/93/icon.png",
+ "authors": [
+   { 
+     "firstname": "Lena",
+     "name": "Egeler",
+     "email": "lena.egeler98@gmail.com",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": "Brasilien",
+   "region": "Mato Grosso",
+   "city": null,
+   "cities": null,
+   "landscape": "Regenwald",
+   "latitude": -12.681871,
+   "longitude": -56.921099
+ },
+ "period": {
+    "begin": ,
+    "end": 
+ },
+ "concept": "Wirkpfade",
+ "topic": "Landwirtschaft",
+ "subtopic": "Ernährung", 
+ "keywords": ["Rodung","Zerstörung","Sojaboom", "Biodiversität", "Indigene Völker", "Migration", "Wasser", "Klimawandel", "Verkehr", "Globalisierung"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": "",
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
