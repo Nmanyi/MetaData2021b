@@ -1,0 +1,67 @@
+{
+ "id": "102",
+ "language": "de",
+ "title": "Was passiert, wenn die globale Klimamaschine versiegt?",
+ "abstract": "Eine der bedeutsamsten globalen Zirkulationssysteme von Meeresströmungen ist die Atlantic Meridional Overturning Circulation, darunter zählt der Golfstrom sowie der Nordatlantikstrom. Dieses Zirkulationssystem ist bedeutend für die globale Wärmeumverteilung und sorgt unter anderem für ein mildes Klima im Nordwesten Europas. In den Medien wird zunehmend von einer Abschwächung dieses Systems aufgrund des Klimawandels gesprochen. Warum ist das so und welche Auswirkungen würde eine Abschwächung mit sich bringen? ",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/102/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/102/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/102/icon.png",
+ "authors": [
+   { 
+     "firstname": "Amelie",
+     "name": "Fischer",
+     "email": "ameliefischer98@gmail.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Atlantik",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": 41.078916,
+   "longitude": -41.112936
+ },
+ "period": {
+    "begin": ,
+    "end": 
+ },
+ "concept": "Risikoanalyse",
+ "topic": "Klimawandel",
+ "subtopic": "Meeresspiegel",
+ "keywords": ["Nordatlantikstrom","Klimawandel","Atlantic Meridional Overturning Circulation"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
