@@ -1,0 +1,120 @@
+{
+ "id": "70",
+ "language": "en",
+ "title": "Toronto - A Sanctuary City?",
+ "abstract": "Living in Toronto without legal status goes along with many disadvantages and problems in daily life. Local initiatives have been fighting against these circumstances since the 1980s. 2004, a Don’t Ask Don’t Tell-Policy was implemented. In 2013, Toronto’s status as a Sanctuary City was legally codified. The poster explains the historical formation of Sanctuary Cities, details relevant policies and barriers to implementation in the city of Toronto.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/70/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/70/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/70/icon.png",
+ "authors": [
+   { 
+     "firstname": "Paulina",
+     "name": "Malys",
+     "email": "paulina.malys@students.uni-freiburg.de",
+     "freidok":"",
+     "orcid": "null"
+   }
+
+ ],
+ "location": {
+   "continent": "Nord Amerika",
+   "country": "Kanada",
+   "region": "Ontario",
+   "city": "Toronto",
+   "landscape": "Großstadt",
+   "latitude": 43.653225,
+   "longitude": -79.383186
+ },
+ "period": {
+    "begin": 1980,
+    "end": 2020
+ },
+ "concept": "Wertebasiert",
+ "topic": "Migration",
+ "subtopic": "Urbanisierung",
+ "keywords": ["Toronto","illegalized status","Don't Ask Don't Tell"], 
+ "sources": [
+   {
+      "type": "Article",
+      "authors": "Bauder, Harald",
+      "year": 2016,
+      "title": "Sanctuary Cities: Policies and Practices in International Perspective",
+      "doi": "10.1111/imig.12308",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/imig.12308",
+      "journal": "International Migration",
+      "volume": "55 (2)",
+      "publisher": "IOM UN Migration",
+      "pages": "174-187"
+   },
+   {
+      "type": "Report",
+      "authors": "Berinstein, Carolina; McDonald, Jean; Nyers, Peter; Wright, Cynthia; Sahar Zerehi, Sima",
+      "year": 2006,
+      "title": "Access Not Fear. Non-Status Immigrants & City Services. Prelliminary Report",
+      "doi": "",
+      "url": "https://www.academia.edu/3933080/Access_Not_Fear_Non_Status_Immigrants_and_City_Services",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": "1-26"
+   },
+
+   {
+      "type": "Book",
+      "authors": "Collingwood, Loren; Gonzalez O'Brien, Benjamin",
+      "year": 2019,
+      "title": "Sanctuary Cities: The Politics of Refuge",
+      "doi": "DOI: 10.1093/oso/9780190937027.003.0001",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/1078087417704974",
+      "journal": "",
+      "volume": null,
+      "publisher": "Oxford University Press",
+      "pages": "1-14"
+   },
+
+{
+      "type": "Chapter in Book",
+      "authors": "Hudson, Graham",
+      "year": 2019,
+      "title": "City of hope, city of fear: sanctuary and security in Toronto, Canada",
+      "doi": "",
+      "url": "https://manchesteruniversitypress.co.uk/9781526134912/",
+      "journal": "Sanctuary Cities and Urban Struggles. Rescaling Migration, Citizenship And Rights",
+      "volume": null,
+      "publisher": "Manchester University Press",
+      "pages": "77-104"
+   },
+
+{
+      "type": "Article",
+      "authors": "Mouffette, David; Ridgley, Jennifer",
+      "year": 2018,
+      "title": "Sanctuary City Organizing in Canada. From Hospitality to Solidarity",
+      "doi": "DOI: 10.3167/arms.2018.010113",
+      "url": "https://www.berghahnjournals.com/view/journals/migration-and-society/1/1/arms010113.xml",
+      "journal": "Migration and Society: Advances in Research",
+      "volume": 1,
+      "publisher": "Berghahn Books",
+      "pages": "147-155"
+   },
+
+{
+      "type": "Report",
+      "authors": "Sidhu, Navjeet (Social Planning Toronto)",
+      "year": 2013,
+      "title": "Accessing Community programs and services for non-status immigrants in Toronto: Organizational challenges and responses",
+      "doi": "",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/socialplanningtoronto/pages/403/attachments/original/1471311884/Accessing-Community-Programs-and-Services-for-Non-status-Immigrants-in-Toronto-Organizational-Challenges-and-Responses.pdf?1471311884",
+      "journal": "",
+      "volume": null,
+      "publisher": "Social Planning Toronto",
+      "pages": "1-33"
+   },
+ ]
+  
+
+
+}
