@@ -1,0 +1,67 @@
+{
+ "id": "98",
+ "language": "de",
+ "title": "NEOM - Utopie auf Staub und Sand",
+ "abstract": "NEOM: Das ist die Vision einer neuen Zukunft, die Errichtung einer innovativen Wirtschaftszone samt moderner Metropole, mit einer Infrastruktur, die nicht nur komfortabel, sondern auch zu 100% nachhaltig sein soll. Der derzeitige saudische Kronprinz möchte diese Utopie seit 2017 im Nordwesten seines Landes in die Tat umsetzten und initiierte bereits erste Baumaßnahmen. Einige der geplanten Teile, wie die Zukunftsstadt „The Line“, sollen bereits bis 2025 fertig gestellt werden, der Rest 2030. Es ist eines der ambitioniertesten Großbauprojekte, an einem der heißesten und trockensten Orte der Erde. Was ist die Vision NEOMs genau? Welche Facetten und Kontroversen dieses Projektes tun sich auf? Kann NEOM ein Vorbild für eine nachhaltige, zukunftsgerichtete Wirtschaft und Städteentwicklung sein?",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/98/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData21b/98/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData21b/98/icon.png",
+ "authors": [
+   {
+     "firstname": "Henriette Karoline",
+     "name": "Kyntschl",
+     "email": "henriette.kyntschl@gmail.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": "Saudi-Arabien",
+   "region": "Tabuk Provinz",
+   "city": "NEOM",
+   "landscape": "Großstadt",
+   "latitude": 28.212942,
+   "longitude": 34.735456
+ },
+ "period": {
+    "begin": 2017,
+    "end": 2030
+ },
+ "concept": "Footprint",
+ "topic": "Urbanisierung",
+ "subtopic": "Verschmutzung",
+ "keywords": ["","",""],
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+
+
+
+}
