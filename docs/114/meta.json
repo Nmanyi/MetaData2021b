@@ -1,4 +1,4 @@
-    {
+{
  "id": "114",
  "language": "de",
  "title": "Entstehung neuer Gletscherseen in den Schweizer Alpen. Land- und wirtschaftliche Aufwertung oder neue Bedrohung von oben?",
@@ -24,7 +24,7 @@
    "city": null,
    "landscape": "Gebirge",
    "latitude": 46.3985128,
-   "longitude": 8.71902822,
+   "longitude": 8.71902822
  },
  "period": {
     "begin": 2021,
@@ -60,7 +60,7 @@
       "pages": ""
    }
  ]
-  
+
 
 
 }
