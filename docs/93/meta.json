@@ -30,8 +30,8 @@
    "longitude": -56.921099
  },
  "period": {
-    "begin": ,
-    "end": 
+    "begin": null,
+    "end": null
  },
  "concept": "Wirkpfade",
  "topic": "Landwirtschaft",
