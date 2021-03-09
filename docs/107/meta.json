@@ -20,7 +20,8 @@
  ],
  "location": {
    "continent": "Europa",
-   "countries": ["Frankreich, Deutschland, Luxemburg"],
+   "country": null,
+   "countries": ["Frankreich", "Deutschland", "Luxemburg"],
    "region": "Mosel",   
    "landscape": "Fluss",
    "latitude": 50.365556,
