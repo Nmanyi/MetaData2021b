@@ -1,0 +1,113 @@
+{
+ "id": "97",
+ "language": "de",
+ "title": "Problem Glyphosat",
+ "abstract": "Als Wundermittel der Landwirtschaft ist das Unkrautvernichtungsmittel Glyphosat das weltweit am häufigsten eingesetzte Pestizid. Das Totalherbizid beseitigt nicht-selektiv alle Pflanzen beseitigt, abgesehen von solchen, die vorher gentechnisch verändert wurden. Da es ein Enzym blockiert, welches nur in Pflanzen vorkommt, wurde lange davon ausgegangen, dass es keine Wirkung auf Tier, Mensch und Umwelt hat. Inzwischen wird diese Annahme jedoch kontrovers diskutiert. Negativfolgen des Glyphosateinsatzes sollen mithilfe dieser Arbeit veranschaulicht werden. ",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/97/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/97/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/97/icon.png",
+ "authors": [
+   { 
+     "firstname": "Helen",
+     "name": "Klöpfer",
+     "email": "helen.kloepfer@students.uni-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europe",
+   "country": "Deutschland",
+   "region": "",
+   "city": "",
+   "landscape": "lowlands",
+   "latitude": 50.0,
+   "longitude": 7.5
+ },
+ "period": {
+    "begin": 2000,
+    "end": 2021
+ },
+ "concept": "Risiko",
+ "topic": "Landwirtschaft",
+ "subtopic": "Biodiversität",
+ "keywords": ["Glyphosat","Herbizid"], 
+ "sources": [
+   {
+      "type": "report",
+      "authors": "Jörg Plötner, Jürgen Matschke",
+      "year": 2012,
+      "title": "Akut-toxische, subletale und indirekte Wirkungen von  Glyphosat und glyphosathaltigen Herbiziden auf  Amphibien – eine Übersicht",
+      "doi": "",
+      "url": "https://www.researchgate.net/profile/Joerg-Ploetner/publication/231178416_Akut-toxische_subletale_und_indirekte_Wirkungen_von_Glyphosat_und_glyphosathaltigen_Herbiziden_auf_Amphibien_-_eine_Ubersicht/links/0fcfd5064034fe8016000000/Akut-toxische-subletale-und-indirekte-Wirkungen-von-Glyphosat-und-glyphosathaltigen-Herbiziden-auf-Amphibien-eine-Uebersicht.pdf",
+      "journal": "Zeitschrift für Feldherpetologie",
+      "volume": 19,
+      "publisher": "Laurenti-Verlag",
+      "pages": "8"
+   },
+   {
+      "type": "report",
+      "authors": "Horst-Henning Steinmann",
+      "year": 2013,
+      "title": "Glyphosat – ein Herbizid in der Diskussion und die Suche nach dem „Notwendigen Maß“",
+      "doi": "10.1007/s10343-013-0297-2",
+      "url": "file:///C:/Users/helen/AppData/Local/Temp/Steinmann2013_Article_GlyphosatEinHerbizidInDerDisku.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "Springer-Verlag",
+      "pages": "48"
+   },
+   {
+      "type": "report",
+      "authors": "Kathryn Z Guyton, Dana Loomis, Yann Grosse, Fatiha El Ghissassi, Lamia Benbrahim-Tallaa, Neela Guha, Chiara Scoccianti, Heidi Mattock, Kurt Straif",
+      "year": 2015,
+      "title": "Carcinogenicity of tetrachlorvinphos, parathion, malathion, diazinon, and glyphosate ",
+      "doi": "10.1016/s1470-2045(15)70134-8",
+      "url": "https://doi.org/10.1016%2Fs1470-2045%2815%2970134-8",
+      "journal": "The Lancet Oncology",
+      "volume": 16,
+      "publisher": "International Agency for Research on Cancer Monograph",
+      "pages": "490-491"
+   },
+   {
+      "type": "report",
+      "authors": "Mailin Gaupp-Berghausen, Martin Hofer, Boris Rewald, Johann G. Zaller",
+      "year": 2015,
+      "title": "Glyphosate-based herbicides reduce the activity and reproduction of earthworms and lead to increased soil nutrient concentrations",
+      "doi": "10.1038/srep1288",
+      "url": "https://www.nature.com/articles/srep12886.pdf",
+      "journal": "Scientific Reports",
+      "volume": null,
+      "publisher": "Scientific Reports",
+      "pages": "5"
+   },
+   {
+      "type": "report",
+      "authors": "Hans-Joachim Flügel",
+      "year": 2018,
+      "title": "Die Blütenökologie der Ackerwildkräuter",
+      "doi": "",
+      "url": "https://www.researchgate.net/profile/Hans-Joachim-Fluegel/publication/327386167_Die_Blutenokologie_der_Ackerwildkrauter/links/5b8ba2b14585151fd142842f/Die-Bluetenoekologie-der-Ackerwildkraeuter.pdf",
+      "journal": "Lebbimuk",
+      "volume": 15,
+      "publisher": "",
+      "pages": "64-87"
+   },
+   {
+      "type": "report",
+      "authors": "Carolina Mengoni Goñalons, Walter M. Farina",
+      "year": 2018,
+      "title": "Impaired associative learning after chronic exposure to pesticidesin young adult honey bees",
+      "doi": "10.1242/jeb.176644",
+      "url": "https://jeb.biologists.org/content/jexbio/221/7/jeb176644.full.pdf",
+      "journal": "Experimental Biology",
+      "volume": null,
+      "publisher": "The Company of Biologists Ltd",
+      "pages": "5"
+   }
+ ]
+  
+}
