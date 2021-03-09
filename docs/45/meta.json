@@ -1,0 +1,66 @@
+{
+ "id": "45",
+ "language": "de",
+ "title": "Tic Toc Tod - Countdown zur Katastrophe",
+ "abstract": "1963 ereignete sich eine gravierende menschengemachte Naturkatastrophe. Etwa 270 Million m³ Gestein des Monte Toc, nahe Venedig, stürzten am 09. Oktober 1963 in den am Fuße des Berges angelegten Vajont-Stausee. Die dadurch entstandene Flutwelle überwand die errichtete Staumauer und zerstörte unter anderem des Städtchen Longarone. Bei diesem Unglück starb etwa 2000 Menschen. Noch bis heute beschäftigen Experten sich mit folgenden Fragestellungen:</br>„Wie kam es zu diesem Unglück?“ (geologische und menschliche Ursachen),<br/>„Wie hätte dieses Unglück verhindert werden können?“ und<br/>„Könnte sich diese Naturkatastrophe auch in den Alpen wiederholen?“ ",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/45/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/45/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Isabelle",
+     "name": "Anders",
+     "email": "isabelle.anders@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": "https://orcid.org/0000-0002-4616-3003"
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Italien",
+   "region": "Venetien",
+   "city": "Longarone",
+   "landscape": "Gebirge",
+   "latitude": 46.265556,
+   "longitude": 12.301944
+ },
+ "period": {
+    "begin": 1943,
+    "end": 1963
+ },
+ "concept": "Tipping Points",
+ "topic": "Naturkatastrophe",
+ "subtopic": "Energie", 
+ "keywords": ["Naturkatastrophe","Wasser","Energie","Landnutzung"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
