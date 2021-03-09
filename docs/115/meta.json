@@ -1,0 +1,68 @@
+{
+ "id": 115,
+ "language": "de",
+ "title": "Sind die Gletscher in den Alpen bis 2100 eisfrei? Die Entwicklung der Alpengletscher bis 2100",
+ "abstract": "Die Alpen und ihre Gletscher sind heute stark vom anthropogenen verursachten Klimawandel betroffen. Ein großer Teil der Gletscherfläche im Vergleich zu Jahre 1850 ist schon geschmolzen. Doch wie sieht die Entwicklung der Gletscher bis 2100 aus? Wird es in der Zukunft noch Gletscher im Alpenraum geben? Und welche Folgen entstehen durch das ungebremste Abschmelzen der Gletscher in den Alpen?",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/115/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/115/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/115/icon.png",
+ "authors": [
+   { 
+     "firstname": "Tim",
+     "name": "Eisl", 
+     "email": "tim.eisl@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa", 
+   "country": null,
+   "countries": ["Schweiz", "Italien", "Österreich", "Frankreich", "Deutschland", "Slowenien", "Lichtenstein"], 
+   "region": "Alpen", 
+   "city": "",
+   "landscape": "Gebirge", 
+   "latitude": 46.490554, 
+   "longitude": 8.043891
+ },
+ "period": {
+    "begin": 2000,
+    "end": 2100
+ },
+ "concept": "Tipping Points", 
+ "topic":" Klimawandel",
+ "subtopic": "Erwärmung", 
+ "keywords": ["","",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
