@@ -1,0 +1,67 @@
+{
+ "id": "46",
+ "language": "en",
+ "title": "The Climate Change Challenge - England got damaged by the North Sea",
+ "abstract": "Climate change will place demands on island and coastal protection. Sea level rise and its secondary consequences are causing risks for coastlines and coastal populations. Especially Great Britain is affected by these criticalities. The flat North Sea at the east coast of England is harshly concerned and is in need of some coastal defences and measures to fight against coastal erosion. Let’s have a closer look!",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021/46/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/46/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/46/icon.png",
+ "authors": [
+   { 
+     "firstname": "Kristian",
+     "name": "Disch",
+     "email": "kristian.disch@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europe",
+   "country": "England",
+   "region": "East England, North Norfolk, Wallasea Island",
+   "city": "Happisburgh",
+   "landscape": "Küste",
+   "latitude": 52.483333333333,
+   "longitude": 1.5666666666667
+ },
+ "period": {
+    "begin": 2010,
+    "end": 2030
+ },
+ "concept": "Tipping Points",
+ "topic": "Climate Change",
+ "subtopic": "sea level",
+ "keywords": ["Defence","erosion","Sea level rise"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
