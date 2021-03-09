@@ -1,0 +1,68 @@
+{
+ "id": "58",
+ "language": "de",
+ "title": "Der Jordan - Quell des Konflikts?",
+ "abstract": "Der Jordan stellt eine der wichtigsten Wasserquellen im Nahen Osten dar. Seit Jahren nimmt die Wasserverfügbarkeit und -qualität im Jordantal jedoch rapide ab und es kommt immer wieder zu schweren Konflikten um das Jordanwasser. Dieses Poster soll die Hintergründe dieser Dynamiken aufzeigen und die aktuelle Wasserverfügbarkeit und Nutzung im Jordantal skizzieren. Weiterhin soll ein Ausblick auf mögliche zukünftige Entwicklungen hinsichtlich der Vulnerabilität der Region in einer „Wasserkrise“ gegeben werden.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/58/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/58/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/58/icon.png",
+ "authors": [
+   { 
+     "firstname": "Calvin",
+     "name": "Stech",
+     "email": "calvinstech1@gmail.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": null,
+   "countries": ["Israel, Palästina, Libanon, Jordanien, Syrien"],
+   "region": "Jordantal",
+   "city": "",
+   "landscape": "Fluss",
+   "latitude": 32.647935,
+   "longitude": 35.564004
+ },
+ "period": {
+    "begin": 1913,
+    "end": 2100
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Ressourcen",
+ "subtopic": "Wasser",
+ "keywords": ["Wasserkonflikt","Klimawandel","Wasserknappheit"], 
+ "sources": [
+   {
+      "type": "article",
+      "authors": "Gebhard, T.",
+      "year": 2015,
+      "title": "Jordanien - Wasserarmut in einer instabilen Region",
+      "doi": "",
+      "url": "https://www.hss.de/publikationen/jordanien-wasserarmut-in-einer-instabilen-region-pub406/",
+      "journal": "Kooperationen und Konflikte um die Ressource der Zukunft - Wasser",
+      "volume": 14,
+      "publisher": "Luther, S.",
+      "pages": "7 - 18"
+   },
+   {
+      "type": "chapter in book",
+      "authors": "Venot, P., Courcier, R., Molle, F.",
+      "year": 2013,
+      "title": "A Brief History of Water Use in Jordan",
+      "doi": "",
+      "url": "https://books.openedition.org/ifpo/5054?lang=de",
+      "book": "Atlas of Jordan",
+      "volume": null,
+      "publisher": "Abasa, M.",
+      "pages": "416 - 424"
+   }
+ ]
+  
+
+
+}
