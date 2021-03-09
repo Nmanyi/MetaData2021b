@@ -1,0 +1,119 @@
+{
+ "id": "83",
+ "language": "de",
+ "title": "Sind die Ozeane bald leer gefischt?",
+ "abstract": "Die Überfischung der Ozeane ist eine globale Herausforderung. Weltweit gelten 29 Prozent aller Fischbestände als überfischt. Welche Ursachen hat die Überfischung und welche Maßnahmen werden ergriffen, um diese einzudämmen und den Fischbestand nachhaltig zu sichern? Mit dem Nordseehering wird dabei ein Beispiel für erfolgreich betriebenes Fischereimanagement aufgezeigt, da die Art sich nach einem Zusammenbrechen des Bestands inzwischen erholt hat.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2020b/83/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2020b/83/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020b/83/icon.png",
+ "authors": [
+   { 
+     "firstname": "Clara",
+     "name": "Schlomann",
+     "email": "clara.schlomann@web.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "countries": [],
+   "region": "Nordsee",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": 54.846508,
+   "longitude": 6.190950
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Wirkpfade",
+ "topic": "Ressourcen",
+ "subtopic": "Ernährung",
+ "keywords": ["Überfischung","Fischfang","Nordseehering"], 
+ "sources": [
+   {
+      "type": "PDF",
+      "authors": "FAO",
+      "year": 2020,
+      "title": "The state of world fisheries and aquaculture. Sustainability in Action",
+      "doi": "",
+      "url": "http://www.fao.org/3/ca9229en/ca9229en.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Website",
+      "authors": "Europäische Kommission",
+      "year": 2015,
+      "title": "Die Gemeinsame Fischereipolitik (GFP). Fischereimanagement der EU.",
+      "doi": "",
+      "url": "https://ec.europa.eu/fisheries/cfp_de",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+
+   },
+   {
+      "type": "Website",
+      "authors": "WWF",
+      "year": null,
+      "title": "Überfischung – eine Tatsache in Zahlen. ",
+      "doi": "",
+      "url": "https://www.fishforward.eu/de/project/ueberfischung-eine-tatsache-in-zahlen/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+
+   },
+   {
+      "type": "Website",
+      "authors": "Bundesamt für Naturschutz",
+      "year": null,
+      "title": "Deutsche Fischerei in Nord- und Ostsee. ",
+      "doi": "",
+      "url": "https://www.bfn.de/themen/meeresnaturschutz/belastungen-im-meer/fischerei/deutsche-fischerei.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+
+   },
+   {
+      "type": "Website",
+      "authors": "Thünen-Institut",
+      "year": 2021,
+      "title": "Hering: Nordsee-Herbstlaicher. Bestandsdatenblatt. ",
+      "doi": "",
+      "url": "https://www.fischbestaende-online.de/fischarten/hering/hering-nordsee-herbstlaicher ",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Website",
+      "authors": "Statista",
+      "year": 2021,
+      "title": "Europäische Fangquoten für die deutsche Fischerei in der Nordsee nach Fischart von Januar bis März 2021.  ",
+      "doi": "",
+      "url": "https://de.statista.com/statistik/daten/studie/952096/umfrage/fangquoten-fuer-den-deutsche-fischfang-in-der-nordsee/ ",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+  }
+ ]
+  
+
+
+}
