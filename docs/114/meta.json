@@ -8,6 +8,7 @@
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData2021b/114/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2021b/114/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/114/icon.png",
  "authors": [
    { 
      "firstname": "Sebastian",
@@ -30,8 +31,8 @@
     "begin": 2021,
     "end": 2021
  },
- "concept": "Risikoanalyse",
- "topic": "Klimaänderung",
+ "concept": "Risiko",
+ "topic": "Klimawandel",
  "subtopic": "Landnutzung",
  "keywords": ["Gletschersee","Klimawandel","Chancen- und Risiken","Energie","Wasser"], 
  "sources": [

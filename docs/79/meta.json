@@ -1,0 +1,68 @@
+{
+ "id": "79",
+ "language": "en",
+ "title": "About „game changer“ and „silver bullets“: Negative emissions from carbon capture, storage and utilization",
+ "abstract": "It’s gettin hotter here. Earth’s temperature is rising, mainly because of increasing carbon dioxide conzentrations in the atmosphere. To mitigate a dangerous turn to antrophogenic climate change it is necessary to decrease these CO2-levels. This can either be accomplished by lowering the CO2 output by changing worlds economy to be more carbon-neutral or by so called negative emissions by geoengineering approaches. There are various options to extract CO2 from the atmosphere. One is the direct air capture (DAC) with solvents applied to huge fans. By binding it to chemicals it is removed from the ambient air. After the CO2 is captured it can either be reused (carbon conversion and utilization - CCU) or stored (cabon capture and storage - CCS). The potential behind these „game changer“ technologies is huge but are they really a „silver bullet“?",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021/79/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021/79/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021/79/icon.png",
+ "authors": [
+   { 
+     "firstname": "Kaya",
+     "name": "Dünzen",
+     "email": "kayafiorella@googlemail.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "countries": ["Schweiz","Island"],
+   "region": null,
+   "city": null,
+   "landscape": "Atmosphäre",
+   "latitude": 0,
+   "longitude": 0
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2050
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Klimawandel",
+ "subtopic": "Stoffkreisläufe",
+ "keywords": ["Carbon Removal","DAC","CCS","CCU"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": ,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
