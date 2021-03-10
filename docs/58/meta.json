@@ -19,9 +19,9 @@
    }
  ],
  "location": {
-   "continent": "Asien",
+   "continent": "Naher Osten",
    "country": null,
-   "countries": ["Israel, Palästina, Libanon, Jordanien, Syrien"],
+   "countries": ["Israel", "Palästina", "Libanon", "Jordanien", "Syrien"],
    "region": "Jordantal",
    "city": "",
    "landscape": "Fluss",

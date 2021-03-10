@@ -21,7 +21,7 @@
  "location": {
    "continent": "Europa", 
    "country": null,
-   "countries": ["Schweiz", "Italien", "Österreich", "Frankreich", "Deutschland", "Slowenien", "Lichtenstein"], 
+   "countries": ["Schweiz", "Italien", "Österreich", "Frankreich", "Deutschland", "Slowenien", "Liechtenstein"], 
    "region": "Alpen", 
    "city": "",
    "landscape": "Gebirge", 
