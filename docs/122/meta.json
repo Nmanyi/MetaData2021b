@@ -22,7 +22,7 @@
  ],
  "location": {
    "continent": "Europa",
-   "country": "null",
+   "country": null,
    "countries": ["Irland","Norwegen","Frankreich","Spanien","Portugal","Dänemark","Deutschland"],
    "region": "null",
    "city": "null",
