@@ -1,0 +1,58 @@
+{
+ "id": "122",
+ "language": "de",
+ "title": "Ocean's Rainforest - Algen Aquakulturen #Europe'sSolutionToFoodShortageAndClimateChange?!",
+ "abstract": "Seit mehreren Jahren steigt das Interesse an der Algenkultivierung in Europa. Makroalgen wie die S. Latissima gelten als eine attraktive, nachhaltige und zukunftsfähige Ressource, welche vielfältig verwendet werden können. Zudem mindern sie die ökologischen Auswirkungen des Klimawandels. Die Kultivierung der Algen und die ökologische Umwelt unterliegen einer reziproken Wechselwirkung. Ob in Zukunft eine Kultivierung im großen Maßstab in Europa stattfinden wird, hängt von potenziellen Anbauflächen und den sich durch den Klimawandel verändernden Einflussfaktoren ab. Die Forschung und Kultivierung der Algen in Europa stecken aktuell noch in den Kinderschuhen und benötigen weitere Forschungen und Erfahrungen.",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "image": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/122/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/122/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/122/icon.png",
+ "authors": [
+   { 
+     "firstname": "Lea",
+     "name": "Hagenbach",
+     "email": "Lea.Hagenbach@jupiter.uni-freiburg.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "null",
+   "countries": ["Irland","Norwegen","Frankreich","Spanien","Portugal","Dänemark","Deutschland"],
+   "region": "null",
+   "city": "null",
+   "landscape": "Küste",
+   "latitude": -45.5,
+   "longitude": 123.2
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Complexity Theory",
+ "topic": "Ressourcen",
+ "subtopic":"Ernährung",
+ "keywords": ["Algen","Aquakulturen"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": "",
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+  
+ ]
+  
+
+}
