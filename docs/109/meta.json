@@ -1,0 +1,68 @@
+{
+ "id": "109",
+ "language": "de",
+ "title": "Fällt uns das Dach der Welt bald auf den Kopf? - Klimawandel und Felsstürze im Hochgebirge",
+ "abstract": "Der Klimawandel hat Auswirkungen auf beinahe jeden Teil des Lebens auf diesem Planeten. Im Kontext des Hochgebirges spielt der Klimawandel in erster Linie durch höhere Temperaturmaxima- und -schwankungen, vermehrte extreme Klimaereignisse, die nachhaltige Verschiebung der Höhenstufen und der Reduktion der Permafrostbereiche eine große Rolle. Daraus daraus resultieren die Destabilisierung geologischer Strukturen, sowie die Transformation von beeinflussenden und auslösenden Faktoren für gravitative Massenbewegungen. Aufgrund der anthropogenen Überprägung des Hochgebirges entstehen katastrophale Folgen für Siedlungen, Infrastruktur und den Menschen selbst. Das Projekt PermaSense am Matterhorn ist ein möglicher Weg den katastrophalen Folgen durch eine genaue und detaillierte Überwachung instabiler Hängen vorzubeugen.",
+ "year": 2021,
+ "freidok": "null",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/109/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/109/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/109/icon.png",
+ "authors": [
+   { 
+     "firstname": "Alexander",
+     "name": "Bizer",
+     "email": "alexander.bizer@gmx.de",
+     "freidok":"null",
+     "orcid": "null"
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "countries": ["Schweiz", "Frankreich", "Italien", "Österreich"],
+   "region": "Matterhorn",
+   "city": "null",
+   "landscape": "Gebirge",
+   "latitude": 45.9,
+   "longitude": 7.6
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2021
+ },
+ "concept": "Risiko",
+ "topic": "Klimawandel",
+ "subtopic": "Katastrophe",
+ "keywords": ["Klimawandel","Felsstürze","Alpen"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
