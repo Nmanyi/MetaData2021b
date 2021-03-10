@@ -1,0 +1,146 @@
+{
+ "id": "44",
+ "language": "en",
+ "title": "Tipping Points",
+ "abstract": "Tipping points are critical points at which sub-systems of our planet are drastically altered by small disruptions. Tipping a system leads to irreversible, either abrupt and linear or gradual and self-perpetuating responses. Past the tipping point, self-reinforcing feedbacks within the system instead of human influences will become the main drivers of change. Additionally, so-called domino effects will amplify changes as tipping of one system leads to tipping of others. Although it might be too late for some systems, it is imperative that the Paris Climate Agreement goals are reached in order to prevent the drastic and unforeseeable changes that result from tipping our Earth’s systems.",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/44/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/44/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/44/icon.png",
+ "authors": [
+   { 
+     "firstname": "Lisa",
+     "name": "Rehn",
+     "email": "lisasophie.rehn@gmail.com",
+     "freidok": null,
+     "orcid": "0000-0002-7828-4045"
+   }
+ ],
+ "location": {
+   "continent": "Arktis",
+   "country": null,
+   "region": null,
+   "city": null,
+   "landscape": "Polarregion",
+   "latitude": 85,
+   "longitude": 0
+ },
+ "period": {
+    "begin": null,
+    "end": 2021
+ },
+ "concept": "Tipping Points",  
+ "topic": "Klimawandel", 
+ "subtopic": "Erwärmung",
+ "keywords": ["Geografie", "Wandel", "Globalisierung", "GLobaler Wandel", "Global Change"], 
+ "sources": [
+   {
+      "type": "report",
+      "authors": "IPCC",
+      "year": 2019,
+      "title": "Special report on the ocean and cryosphere in a changing climate",
+      "doi": "",
+      "url": "https://www.ipcc.ch/srocc/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "Lenton, Timothy",
+      "year": 2020,
+      "title": "Tiping positive change",
+      "doi": "10.1098/rstb.2019.0123",
+      "url": "",
+      "journal": "Philosophical Transactions B",
+      "volume": 375,
+      "publisher": "",
+      "pages": "1-8"
+   },
+   {
+      "type": "article",
+      "authors": "Lenton, Timothy, et al.",
+      "year": 2019,
+      "title": "Climate tipping points - too risky to bet against",
+      "doi": "10.1038/d41586-019-03595-0",
+      "url": "",
+      "journal": "Nature",
+      "volume": 575,
+      "publisher": "",
+      "pages": "592-595"
+   },
+   {
+      "type": "article",
+      "authors": "Lenton, Timothy, et al.",
+      "year": 2007,
+      "title": "Tipping elements in the Earth's climate system",
+      "doi": "10.1073/pnas.0705414105",
+      "url": "",
+      "journal": "PNAS",
+      "volume": "105 (6)",
+      "publisher": "",
+      "pages": "1786-1793"
+   },
+      {
+      "type": "article",
+      "authors": "Otto, Ilona, et al.",
+      "year": 2019,
+      "title": "Social tipping dynamics for stabilizing Earth's climate by 2050",
+      "doi": "10.1073/pnas.1900577117",
+      "url": "",
+      "journal": "PNAS",
+      "volume": "117 (5)",
+      "publisher": "",
+      "pages": "2354-2365"
+   },   {
+      "type": "report",
+      "authors": "Potsdam Institute for Climate Research",
+      "year": 2007,
+      "title": "Heaven and Earth. From Pergamon to Potsdam",
+      "doi": "",
+      "url": "https://www.pik-potsdam.de/en/output/infodesk/books_brochures/books-and-brochures/heaven-and-earth-from-pergamon-to-potsdam",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },   {
+      "type": "article",
+      "authors": "Schellnhuber, Hans Joachim",
+      "year": 2009,
+      "title": "Tipping elements in the Earth System",
+      "doi": "10.1073/pnas.0911106106",
+      "url": "",
+      "journal": "PNAS",
+      "volume": "106(49)",
+      "publisher": "",
+      "pages": "20561-50565"
+   },   {
+      "type": "article",
+      "authors": "Steffen, Will, et al.",
+      "year": 2018,
+      "title": "Trajectories of the Earth System in the Athropocene",
+      "doi": "10.1073/pnas.1810141115",
+      "url": "",
+      "journal": "PNAS",
+      "volume": "115(33)",
+      "publisher": "",
+      "pages": "8252-8259"
+   },   {
+      "type": "report",
+      "authors": "Umweltbundesamt",
+      "year": 2008,
+      "title": "Kipp-Punkte im Klimasystem. Hintergrundpapier",
+      "doi": "",
+      "url": "https://www.umweltbundesamt.de/publikationen/kipp-punkte-im-klimasystem",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
