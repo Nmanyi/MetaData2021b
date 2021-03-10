@@ -1,0 +1,68 @@
+{
+ "id": "59",
+ "language": "de",
+ "title": "Der Globale Wasserverbrauch - Leben wir auf zu großem Fuß?",
+ "abstract": "Der Globale Wasserverbrauch steigt seit Jahren stetig an. Eine große Rolle spielt dabei die Bewässerung landwirtschaftlicher Flächen. Zur Messung des Wasserverbrauchs wird das Konzept des Wasserfußabdrucks verwendet. Dieser dient der Feststellung, ob der Wasserressourcenverbrauch eines Landes nachhaltig ist. Bei dieser Berechnung fließt das Konzept des virtuellen Wassers mit ein. Für einen detaillierten Aufschluss des Wasserfußabdrucks ist eine differenzierte Betrachtung auf nationaler oder regionaler Ebene erforderlich. Als Industrienation liegt Deutschland im Vergleich zu Ländern des Globalen Südens über dem mittleren globalen Wasserverbrauch von 3.800 Litern pro Kopf/Tag.",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/59/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/59/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/59/icon.png",
+ "authors": [
+   { 
+     "firstname": "Johanna",
+     "name": "Rustler",
+     "email": "johanna.rustler@googlemail.com",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "countries": ["Deutschland","China","USA"],
+   "region": null,
+   "city": null,
+   "landscape": "Agrar",
+   "latitude": -45,
+   "longitude": 123
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Footprint",
+ "topic": "Wasser",
+ "subtopic": "Landwirtschaft",
+ "keywords": ["Produktion","Verbraucher*innen"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": ,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year":,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
+
