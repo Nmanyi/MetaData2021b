@@ -2,7 +2,7 @@
  "id": "122",
  "language": "de",
  "title": "Ocean's Rainforest - Algen Aquakulturen #Europe'sSolutionToFoodShortageAndClimateChange?!",
- "abstract": "Seit mehreren Jahren steigt das Interesse an der Algenkultivierung in Europa. Makroalgen wie die S. Latissima gelten als eine attraktive, nachhaltige und zukunftsf‰hige Ressource, welche vielf‰ltig verwendet werden kˆnnen. Zudem mindern sie die ˆkologischen Auswirkungen des Klimawandels. Die Kultivierung der Algen und die ˆkologische Umwelt unterliegen einer reziproken Wechselwirkung. Ob in Zukunft eine Kultivierung im groﬂen Maﬂstab in Europa stattfinden wird, h‰ngt von potenziellen Anbaufl‰chen und den sich durch den Klimawandel ver‰ndernden Einflussfaktoren ab. Die Forschung und Kultivierung der Algen in Europa stecken aktuell noch in den Kinderschuhen und benˆtigen weitere Forschungen und Erfahrungen.",
+ "abstract": "Seit mehreren Jahren steigt das Interesse an der Algenkultivierung in Europa. Makroalgen wie die S. Latissima gelten als eine attraktive, nachhaltige und zukunftsf√§hige Ressource, welche vielf√§ltig verwendet werden k√∂nnen. Zudem mindern sie die √∂kologischen Auswirkungen des Klimawandels. Die Kultivierung der Algen und die √∂kologische Umwelt unterliegen einer reziproken Wechselwirkung. Ob in Zukunft eine Kultivierung im gro√üen Ma√üstab in Europa stattfinden wird, h√§ngt von potenziellen Anbaufl√§chen und den sich durch den Klimawandel ver√§ndernden Einflussfaktoren ab. Die Forschung und Kultivierung der Algen in Europa stecken aktuell noch in den Kinderschuhen und ben√∂tigen weitere Forschungen und Erfahrungen.",
  "year": 2021,
  "freidok": "",
  "doi": "",
@@ -23,10 +23,10 @@
  "location": {
    "continent": "Europa",
    "country": "null",
-   "countries": ["Irland","Norwegen","Frankreich","Spanien","Portugal","D‰nemark","Deutschland"],
+   "countries": ["Irland","Norwegen","Frankreich","Spanien","Portugal","D√§nemark","Deutschland"],
    "region": "null",
    "city": "null",
-   "landscape": "K¸ste",
+   "landscape": "K√ºste",
    "latitude": -45.5,
    "longitude": 123.2
  },
@@ -36,7 +36,7 @@
  },
  "concept": "Complexity Theory",
  "topic": "Ressourcen",
- "subtopic":"Ern‰hrung",
+ "subtopic":"Ern√§hrung",
  "keywords": ["Algen","Aquakulturen"], 
  "sources": [
    {
