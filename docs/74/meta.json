@@ -1,0 +1,67 @@
+{
+ "id": "74",
+ "language": "de",
+ "title": "Corona - (K)ein Segen für das Klima?",
+ "abstract": "Der globale Klimawandel schreitet stetig voran und immer wieder kommt von Seiten der Expert/innen große Skepsis auf, ob das im Pariser Klimaabkommen vereinbarte Ziel, den menschengemachten Temperaturanstieg auf 1,5C zu begrenzen, überhaupt noch erreicht werden kann In Zusammenhang mit der globalen Corona Pandemie, ergibt sich die Fragestellung, ob neben all den negativen Folgen, die damit einhergehen, auch positive Nebeneffekte auftreten, die dazu beitragen, dass sich das Klima erholt",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/74/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/74/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/74/icon.png",
+ "authors": [
+   { 
+     "firstname": "Lucile",
+     "name": "Dewald",
+     "email": "luciledewald@gmail.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "World",
+   "country": null,
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": -44.9,
+   "longitude": -122.9
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2020
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Klimawandel",
+ "subtopic": "Gesundheit",
+ "keywords": ["Corona","Klima"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
