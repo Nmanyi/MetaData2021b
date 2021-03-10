@@ -1,0 +1,102 @@
+{
+ "id": "71",
+ "language": "de",
+ "title": "Belize Barrier Reef-Ein Weltnaturerbe mit Zukunft?",
+ "abstract": "Das Belize Barriere Riff ist als zweitgrößtes Riffsystem der Welt eine wichtige, vielfältige Biotopbasis. Durch diverse Einflüsse, welche anthropogenen sowie natürlichen Ursprungs sind, wird die Entwicklung des Riffs beeinflusst. Diese Wirkfaktoren sind trotz unterschiedlicher Maßnahmen nur bedingt beeinflussbar. Im Jahr 2019 wurde in Belize die Korallenbleiche mit bisher größtem Ausmaß verzeichnet. Wird das Weltnaturerbe auch in Zukunft den Lebensraum für hunderte von Arten darstellen? ",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/71/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/71/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/71/icon.png",
+ "authors": [
+   { 
+     "firstname": "Lily",
+     "name": "Herrmann",
+     "email": "lily.herrmann1996@gmail.com",
+     "freidok":"",
+     "orcid": "0000-0002-8209-4690"
+   }
+ ],
+ "location": {
+   "continent": "Atlantik",
+   "country": "Belize",
+   "region": "Belize Barrier Reef",
+   "landscape": "Meer",
+   "latitude": 16.957692,
+   "longitude": -88.043318
+ },
+ "period": {
+    "begin": 1970,
+    "end": 2020
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Wasser",
+ "subtopic": "Klimawandel",
+ "keywords": ["Korallenriff","Verschmutzung","Überfischung","Erwärmung","Versauerung","Tourismus"], 
+ "sources": [
+   {
+      "type": "Internet-Dokument",
+      "authors": "Deutsche UNESCO-Kommission ",
+      "year": 2018,
+      "title": "Erfolgreiche Schutzmaßnahmen für das Naturreservat Barriereriff von Belize",
+      "doi": "",
+      "url": "https://www.unesco.de/kultur-und-natur/welterbe/welterbe-weltweit/erfolgreiche-schutzmassnahmen-fuer-das-naturreservat",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Internet-Dokument",
+      "authors": "Proplanta",
+      "year": 2014,
+      "title": "Karibik: Das Ende der Korallenriffe naht",
+      "doi": "",
+      "url": "https://www.proplanta.de/agrar-nachrichten/umwelt/karibik-das-ende-der-korallenriffe-naht_article1404570681.html ",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Internet-Dokument",
+      "authors": "Reef Conservation International",
+      "year": 2019,
+      "title": "10 fascinating facts about the Belize Barrier Reef",
+      "doi": "",
+      "url": "https://reefci.com/2019/06/15/10-fascinating-facts-about-the-belize-barrier-reef/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Internet-Dokument",
+      "authors": "Reuter, T.",
+      "year": 2020,
+      "title": "Meeresbiologin will zweitgrößtes Riff der Welt retten: „Vielen Menschen ist es völlig egal, ob das Riff lebt“",
+      "doi": "",
+      "url": "https://www.fr.de/panorama/belize-korallenriff-meeresbiologin-aufforstung-zerstoerung-tourismus-13827691.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Internet-Dokument",
+      "authors": "Zentrum für Marine Umweltwissenschaften",
+      "year": 2019,
+      "title": "Karibische Korallenriffe: Zwischen Widerstandsfähigkeit und wärmeren Klimazonen",
+      "doi": "",
+      "url": "https://www.marum.de/Entdecken/Karibische-Korallenriffe-zwischen-Widerstandsfaehigkeit-und-waermeren-Klimazonen.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
