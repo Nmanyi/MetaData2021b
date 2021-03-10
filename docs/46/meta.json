@@ -1,0 +1,70 @@
+{
+ "id": "46",
+ "language": "de",
+ "title": "'Flutwelle in den Alpen - menschgemacht?",
+ "abstract": "1963 wurden die Menschen in Longarone in Norditalien von einer Tragödie heimgesucht. Ein Bergsturz löste eine Flutwelle in einem neu errichteten Stausee aus, welche die Staumauer überwand und das dahinter liegende Tal verwüstete. Warnungen von Geologen waren zuvor ignoriert worden, ebenso die Anzeichen am Hang des Berges, die auf einen extremen Bergsturz hinwiesen. 2000 Menschen starben bei dieser Katastrophe. Aber welche Kaskade von Ereignissen führte zu diesem Unglück? War die Katastrophe menschengemacht?",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "pdf2": "",
+ "image": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/46/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/46/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/46/icon.png",
+ "authors": [
+   { 
+     "firstname": "Timo",
+     "name": "Kerber",
+     "email": "timo.kerber@protonmail.com",
+     "freidok": "",
+     "orcid": "https://orcid.org/0000-0002-8219-777X"
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Italien",
+   "region": "Provinz Belluno",
+   "city": "Longarone",
+   "landscape": "Gebirge",
+   "latitude": 46.267222,
+   "longitude": 12.329167
+ },
+ "period": {
+    "begin": 1953,
+    "end": 2021
+ },
+ "concept": "Wirkpfade",
+ "topic": "Energie",
+ "subtopic": "Katastrophe",
+ "keywords": ["Flutwelle","Naturgefahr"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
