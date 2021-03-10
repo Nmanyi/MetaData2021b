@@ -1,0 +1,67 @@
+{
+ "id": "81",
+ "language": "de",
+ "title": "Die Überfischung der Nordsee am Beispiel Kabeljau",
+ "abstract": "Die Nordsee ist das wichtigste Fischereigewässer Europas. 5% des Weltfischfangs finden in der Nordsee statt, obwohl ihre Fläche nur 0,2% der Weltmeere ausmacht. Während die Gesamtfangmenge aller Fischarten in der Nordsee 1970 noch bei 4 Mio Tonnen lag, liegt diese heute nur noch bei knapp 2 Mio Tonnen.  Der Nordsee Kabeljau gehört zu den 7 wichtigsten Hauptzielarten der kommerziellen gemischten Fischerei in der Nordsee und ist seit Jahrzehnten stark überfischt: so ist die Gesamtfangmenge der Bestände seit 1980 um 90% zurückgegangen.  Dabei hat die Überfischung nicht nur unmittelbare Effekte auf den Kabeljau selbst, sondern wirkt sich auch auf das marine Ökosystem im Ganzen aus.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/81/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/81/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/81/icon.png",
+ "authors": [
+   { 
+     "firstname": "Katharina",
+     "name": "Talanow",
+     "email": "katharina.talanow@web.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Atlantik"
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": 54.446508,
+   "longitude": 5.890950
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Ernährung", 
+ "subtopic": "Ressourcen",
+ "keywords": ["Überfischung","Nordsee","Kabeljau"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
