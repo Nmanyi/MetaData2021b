@@ -1,0 +1,54 @@
+{
+ "id": "89",
+ "language": "de",
+ "title": "Die Gemeinwohlökonomie als transformativer Ansatz",
+ "abstract": "Die Wirtschaft muss menschlicher, sozialer, nachhaltiger, verteilungsgerechter und rund um ethischer werden – gemeinwohlorientierter. Die Gemeinwohlökonomie ist ein alternatives Wirtschaftsmodell, welches für Systemwandel steht: Der Zweck des Wirtschaftens definiert sich nicht mehr durch die Finanzbilanz eines Unternehmens, sondern durch dessen Gemeinwohlbilanz. Diese Bewegung versteht sich als ergebnisoffen, partizipativ und lokal wachsend mit globaler Ausstrahlung.",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/89/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/89/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/89/icon.png",
+ "authors": [
+   { 
+     "firstname": "Magdalena",
+     "name": "Sprauer",
+     "email": "magdalena.sprauer@stud.ph-freiburg.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "countries": ["Österreich", "Deutschland"],
+   "region": "",
+   "city": "",
+   "landscape": "Großstadt",
+   "latitude": 47.84351442265178,
+   "longitude": 12.264158143752494
+ },
+ "period": {
+    "begin": 2010,
+    "end": 2021
+ },
+ "concept": "Diskurs",
+ "topic": "Wirtschaft",
+ "subtopic": "Ressourcen",
+ "keywords": ["Gemeinwohlbilanz","Wirtschaftsmodell","Wachstum"], 
+   "sources": [
+   {
+      "type": "video",
+      "authors": "GWÖ Karlsruhe",
+      "year": 2016,
+      "title": "GWÖ kurz erklärt",
+      "doi": "",
+      "url": "https://www.youtube.com/watch?v=cVFvyd7SmxU",
+      "journal": "",
+      "volume": null,
+      "publisher": "GWÖ Karlsruhe",
+      "pages": ""
+   }
+ ]
+
+
+}
