@@ -1,0 +1,70 @@
+{
+ "id": "65",
+ "language": "de",
+ "title": "A great green Wall for Africa? #MakeAfricagreenagain",
+ "abstract": "Eine große grüne Mauer für Afrika?! Make Africa Green again! Man-Made Desert - vom Mensch in Gang gesetzt, durch den Klimawandel verstärkt. Die stetige Wüstenausbreitung beeinträchtigt Millionen von Menschen und gefährdet deren Existenzen. Weltweit sind etwa 250 Millionen Menschen von Desertifikationserscheinungen gefährdet - mehr als 60 Millionen Menschen mussten alleine in der Sahelzone vor Auswirkungen des Klimas flüchten. Ein großes Renaturierungsprojekt soll die Desertifikation stoppen, das Wirtschaftswachstum stärken und Migration reduzieren. Ein Projekt für die Zukunft? #MakeAfricagreenagain ",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "pdf2": "",
+ "image": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/65/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/65/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/65/icon.png",
+ "authors": [
+   { 
+     "firstname": "Felix",
+     "name": "Vögele",
+     "email": "felixv@gmx.net",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Senegal",
+   "region": "",
+   "city": "Dakar",
+   "landscape": "Wüste",
+   "latitude": 14.716677,
+   "longitude": -17.467686
+ },
+ "period": {
+    "begin": 2005,
+    "end": 2030
+ },
+ "concept": "Diskurs",
+ "topic": "Klimawandel",
+ "subtopic": "Desertifikation",
+ "keywords": ["Desertifikation","Renaturierungsprojekt","Umweltaspekte","Armutsbekämpfung"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
