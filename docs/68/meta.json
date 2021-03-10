@@ -1,0 +1,67 @@
+{
+ "id": "68",
+ "language": "de",
+ "title": "Seenotrettung im Mittelmeer - legitim und illegal?",
+ "abstract": "Auf dem Weg über das Mittelmeer nach Europa geraten viele Migrant*innen in Seenot. Die Rettung der Schiffbrüchigen hat in den vergangenen Jahren eine politische Debatte ausgelöst, die die EU vor einen inneren Konflikt stellt. Zum einen ist die Rettung von Menschenleben rechtlich festgeschrieben und die EU legt offiziell viel Wert auf die Einhaltung der Menschenrechte. Auf der anderen Seite ist es vielen Mitgliedsstaaten wichtig, Grenzkontrollen durchzusetzen und für Sicherheit innerhalb der EU zu sorgen. Die Migrant*innen werden häufig mit einer Bedrohung für die innere Sicherheit der EU assoziiert, was zu einer verstärkten Versicherheitlichung der EU-Außengrenzen und einer Illegalisierung der Seenotrettung führt. In diesem Poster sollen die verschiedenen Aspekte dieser Abschottungspolitik, ihrer rechtlichen und politischen Grundlagen und ihrer Rechtfertigung dargestellt werden. Dabei wird genauer betrachtet, wie sich die EU hinsichtlich Humanitärer- oder Sicherheitspolitik positioniert und welche gesetzlichen Regelungen für die Seenotrettung und die Aufnahme Geflüchteter gelten. Anschließend wird der Prozess der Illegalisierung von privater Seenotrettung betrachtet, sowie die Darstellung von Migrant*innen als Rechtfertigung bestimmter politischer Entscheidungen. Auch die Externalisierungspolitik der EU, also der sicherheitspolitische Versuch, die Seemigration zu unterbinden, ist ein wichtiger Faktor. Letztendlich kann die Illegalisierung der Seenotrettung als politisch motiviert eingestuft werden und führt dazu, dass das Mittelmeer zurzeit die tödlichste Grenze der Welt ist.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/68/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/68/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/68/icon.png",
+ "authors": [
+   { 
+     "firstname": "Louisa",
+     "name": "Freytag",
+     "email": "louisafreytag@posteo.de",
+     "freidok":"",
+     "orcid": "0000-0001-5191-9939"
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "region": "Mittelmeer",
+   "city": null,
+   "landscape": "Meer",
+   "latitude": 43.0,
+   "longitude": 18.0
+ },
+ "period": {
+    "begin": 2011,
+    "end": 2021
+ },
+ "concept": "Netzwerkanalyse",
+ "topic": "Migration",
+ "subtopic": "Migrationspolitik",
+ "keywords": ["Geographie","Wandel","Globalisierung","Migration","Asylpolitik", "Europäische Union"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
