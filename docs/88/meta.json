@@ -1,0 +1,138 @@
+{
+  "id": "88",
+  "language": "de",
+  "title": "Das Klima macht uns krank! Wie der Klimawandel in Deutschland unsere Gesundheit gefährdet.",
+  "abstract": "Der aktuelle Klimawandel und Klimamodellierungen zeigen eine hohe Wahrscheinlichkeit eines weiteren Anstiegs der Mitteltemperaturen in Deutschland. Dieser fortlaufende Klimawandel kann einerseits zu häufigeren und stärkeren Hitzewellen, aber auch zu vermehrten Niederschlägen und Orkanen führen. Dadurch entstehen verschiedene direkte und  indirekten Auswirkungen auf die Gesundheit der Bevölkerung in Deutschland. Besonders Herz-Kreislauf- und Atemwegserkrankungen liegen dabei im Fokus, aber unter anderem auch Infektionskrankheiten, Allergien, psychische Dispositionen und Verletzungen, die durch die Extremwettereignisse verstärkt werden. Dies kann durch kurz- und auch langfristige Strategien vermindert werden, um das Klima- sowie die Gesundheit der Bevölkerung zu schützen.",
+  "year": 2021,
+  "freidok": "",
+  "orientation": "portrait",
+  "pdf": "https://globalchanges.github.io/MetaData2021b/88/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2021b/88/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2021b/88/icon.png",
+  "authors": [
+    {
+      "firstname": "Rebecca",
+      "name": "Deufel",
+      "email": "rebecca.deufel@stud.ph-freiburg.de",
+      "freidok": "",
+      "orcid": "0000-0002-9820-0777"
+    }
+  ],
+  "location": {
+    "continent": "Europa",
+    "country": "Deutschland",
+    "region": "",
+    "city": "",
+    "landscape": "",
+    "latitude": 50.00,
+    "longitude": 9.00
+  },
+  "period": {
+    "begin": 1800,
+    "end": 2050
+  },
+  "concept": "Diskurs",
+  "topic": "Klimawandel",
+  "subtopic": "Gesundheit",
+  "keywords": [
+    "Klimawandel",
+    "Gesundheit",
+    "Medizin"
+    "Klima"
+    "Temperaturerhöhung"
+    "Niederschlag"
+    "Luftverschmutzung"
+    "Auswirkungen "
+    "Krankheit"
+    "Tot"
+    "Umwelt"
+    "Anpassungsstrategie"
+    "Klimaschutz"
+  ],
+  "sources": [
+    {
+      "type": "Bericht",
+      "authors": "Eis, D. Helm,D. Laußmann, D. Stark, K.",
+      "year": 2010,
+      "title": "Klimawandel und Gesundheit. Ein Sachstandbericht",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Robert-Koch-Institut",
+      "pages": ""
+    },
+    {
+      "type": "Sammelband",
+      "authors": "Jendritzky, G",
+      "year": 2007,
+      "title": "Die Folgen des Klimawandels für die Gesundheit",
+      "doi": "",
+      "url": "",
+      "journal": "Endliher, W. Gerstengarbe, F.W. (Hrsg): Der Klimawandel- Einblicke, Rückblicke, Ausblice",
+      "volume": null,
+      "publisher": "Insitut für Klimafolgenforschung",
+      "pages": "108-118"
+    }
+     {
+      "type": "Sammelband",
+      "authors": "August, J. Horstmann, R. Homeiser- Bachmann, T. Jensen, K. Knieling, J. Krefis, A.C. Krüger, A. Quante, M. Sandmann, H. Strube, C.",
+      "year": 2018,
+      "title": "Gesundheit",
+      "doi": "",
+      "url": "",
+      "journal": "Storch, H. Meinke, I. Claußen, M.(Hrsg.): Hamburger Klimabericht- Wissen über Klima, Klimawandel und Auswirkungen in Hamburg und Norddeutschland.",
+      "volume": null,
+      "publisher": "Springer",
+      "pages": "173-192"
+    }
+    {
+      "type": "Bericht",
+      "authors": "Deutsches Klima- Konsortium, Deutsche Meteorologische Gesellschaft, Deutscher Wetterdienst, Extremwetterkongress Hamburg, Helmholtz-Kima Initiative",
+      "year": 2020,
+      "title": "Was wir heute über das Klima wissen. Basisfakten zum Klimawandel, die in der Wissenschaft unumstritten sind.",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Deutsches Klima-Konsortium, Deutsche Meteorologische Gesellschaft, Deutscher Wetterdienst, Extremwetterkongress Hamburg, Helmholtz-Klima-Initiative, klimafakten.de",
+      "pages": ""
+    }
+    {
+      "type": "Bericht",
+      "authors": "Matthies, F. Jung, L. Hegge, L. Thorbrietz, P. Gepp, S. Hartmann, S. ",
+      "year": 2019,
+      "title": "Klimawandel und Gesundheit. Eine Einführung in die Zusammenhänge.",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Bundesvertretung der Medizinstudierende in Deutschland",
+      "pages": ""
+    }
+    {
+      "type": "Sammelband",
+      "authors": "Traidl-Hoffmann, C.",
+      "year": 2020,
+      "title": "Klimaresilienz- Weg der Zukunft.",
+      "doi": "",
+      "url": "",
+      "journal": "Deutsches Ärzteblatt. Jg. 117. Heft 33-34. 17.August 2020.",
+      "volume": null,
+      "publisher": "Deutsches Ärzteblatt",
+      "pages": "1556-1558"
+    }
+    {
+      "type": "Bericht",
+      "authors": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.",
+      "year": 2020,
+      "title": "Den Klimawandel gesundheitlich meistern! Empfehlungen zur Vorsorge..",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "BMU",
+      "pages": ""
+    }
+  ]
+}
