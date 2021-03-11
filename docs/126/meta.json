@@ -1,0 +1,45 @@
+{
+ "id": "126",
+ "language": "de",
+ "title": "Klimawandel und Felsstürze in den Alpen - das Beispiel Hochvogel",
+ "abstract": "Der Klimawandel in den Alpen trägt dazu bei, dass in vielen Bereichen Naturgefahren zunehmen. Die alpine Bevölkerung gerät immer öfter in Gefahrensituationen. Kosten für Schutzbauten steigen. Gleichzeitig dringen immer mehr Touristen in die alpinen Bereiche vor. Eine große Gefahr für die Menschen vor Ort stellen Felsstürze dar. Diese treten häufig sehr plötzlich und überraschend auf. Bisher konnten die Abläufe vor einen Felssturz kaum untersucht werden. Quer durch den Gipfel des Berges Hochvogel, im Grenzgebiet Deutschland – Österreich, klafft ein gewaltiger Spalt. Der Berg droht auseinander zu brechen! Trotz aller Gefahren – vom Hochvogel kann eine ganze Menge gelernt werden…",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "Gebirge",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/126/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/126/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/126/icon.png",
+ "authors": [
+   { 
+     "firstname": "Tobias",
+     "name": "Haibel",
+     "email": "tobias.haibel@outlook.com",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "country": ["Deutschland","Österreich"],
+   "region": "Alpen",
+   "city": "Bad Hindelang",
+   "landscape": "Gebirge",
+   "latitude": 10.436605,
+   "longitude": 47.380483, 
+ },
+ "period": {
+    "begin": 1869,
+    "end": 2021
+ },
+ "concept": "Risiko",
+ "topic": "Klimawandel",
+ "subtopic": "Katastrophe",
+ "keywords": ["Klimawandel","Alpen","Naturgefahren","Felsstürze","Hochvogel"], 
+ "sources": [
+   {
+   }
+ ]
+
+
+}
