@@ -1,0 +1,67 @@
+{
+ "id": "84",
+ "language": "de",
+ "title": "Tief verwurzelt und doch nicht standhaft - Veränderungen der Mangrovenwälder",
+ "abstract": "Mangrovenwälder sind weltweit verbreitet und leisten viel für unser Ökosystem und die lokale Bevölkerung. Bei Mangroven handelt es sich um salztolerante Baum- und Straucharten, die an diverse Extrembedingungen (z.B. Gezeiten, Hitze) angepasst sind. Gleichzeitig ist ihre Vulnerabilität sehr hoch.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/84/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/84/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/84/icon.png",
+ "authors": [
+   { 
+     "firstname": "Sarah",
+     "name": "Bartle",
+     "email": "sarah.bartle@web.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "Küste",
+   "latitude": 2.433895, 
+   "longitude": 103.771255,
+ },
+ "period": {
+    "begin": null,
+    "end": null
+ },
+ "concept": "Critical Zones",
+ "topic": "Landnutzung",
+ "subtopic": "Biodiversität",
+ "keywords": ["Mangroven","Mangrovenwälder","Landnutzungswandel","Abholzung"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
