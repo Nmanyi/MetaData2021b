@@ -1,0 +1,67 @@
+{
+ "id": "60",
+ "language": "en",
+ "title": "Water conflicts – The Water-society relation from the perspective of political ecology",
+ "abstract": "Water is more than just a natural resource. It’s materialities and discourses are intrinsically intertwined with social processes that continually change over space and time. In a world that is increasingly influenced by anthropogenic actions, this hybrid character leads to tensions and conflicts over and because of water. From a Political Ecology’s perspective, water conflicts can be seen as a specific form of environmental conflicts that are shaped by complex socio-political processes and a variety of actors on different levels. This poster seeks to analyze the connections and interdependencies between water and society. For this, the social character of water is presented, using the analytical concept of the hydrosocial cycle. Furthermore, the central assumptions and approaches of Political Ecology are shown and ultimately connected to the field of water conflicts. To better understand this phenomenon, it is presented what drivers lead to water conflicts, how they can be classified and which alternative solutions of governing water emerge from conflicts.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/60/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/60/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/60/icon.png",
+ "authors": [
+   { 
+     "firstname": "Kilian",
+     "name": "Pfannenmüller",
+     "email": "kilian.pfannenmueller@alumni.fau.de",
+     "freidok": null,
+     "orcid": "0000-0002-7129-4152"
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": -46,
+   "longitude": 122.9
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Wasser",
+ "subtopic": "Ressourcen",
+ "keywords": ["Konflikt","conflict"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
