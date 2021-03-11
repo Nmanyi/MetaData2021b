@@ -21,7 +21,7 @@
  "location": {
    "continent": "Europa",
    "country": null,
-   "country": ["Deutschland","Österreich"],
+   "countries": ["Deutschland","Österreich"],
    "region": "Alpen",
    "city": "Bad Hindelang",
    "landscape": "Gebirge",
