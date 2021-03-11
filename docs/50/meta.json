@@ -1,0 +1,67 @@
+{
+ "id": "50",
+ "language": "de",
+ "title": "Aquakultur - ein unterschätztes Risiko für Ökosysteme und die lokale Bevölkerung? Ein Fallbeispiel der Garnelenzucht in Bangladesch",
+ "abstract": "---",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/50/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/50/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/50/icon.png",
+ "authors": [
+   { 
+     "firstname": "Linda",
+     "name": "Mensinger",
+     "email": "linda.mensinger@posteo.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": "Bangladesch",
+   "region": "",
+   "city": "",
+   "landscape": "Küste",
+   "latitude": 22.28,
+   "longitude": 90.79
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Ernährung",
+ "subtopic": "Landnutzung",
+ "keywords": ["shrimp","aquaculture","bangladesh", "vulnerability"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
