@@ -1,0 +1,66 @@
+{
+ "id": "75",
+ "language": "de",
+ "title": "Dead Zone Golf von Mexiko",
+ "abstract": "Anthropogene Aktivitäten sind hauptverantwortlich für das Artensterben und den Rückgang der Biodiversität im Golf von Mexiko. In diesem Bereich hat sich eine der sogenannten „Dead Zone“ gebildet, welche inzwischen rund 20.000km² groß ist. Nährstoffeinträge (Eutrophierung) von Stickstoff und Phosphor, welche vor allem Verwendung in landwirtschaftlich eingesetzten Düngemitteln finden, gelangen durch den Mississippi River in die Meeresbucht. Dort begünstigen sie das Algenwachstum. Beim Abbau dieser Biomasse verbrauchen Bakterien Sauerstoff, wodurch für Lebenswesen und marine Organismen nicht ausreichend Sauerstoff zur Verfügung steht (Hypoxie). Ein verringerter Nährstoffeintrag der Landwirtschaft und Abwasserklärung sind notwendig um Eutrophierung zu verringern und hypoxischen Zonen entgegenzuwirken.",
+ "year": 2020,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/75/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/75/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/75/icon.png",
+ "authors": [
+   { 
+     "firstname": "Ina",
+     "name": "Schwegler",
+     "email": "ina.schwegler@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Nordamerika",
+   "country": "USA",
+   "region": "Golf von Mexiko",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": -42.45994,
+   "longitude": -73.866829
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2020
+ },
+ "concept": "Wirkpfade",
+ "topic": "Ernährung",
+ "subtopic": "Biodiversität",
+ "keywords": ["Dead Zone","Golf von Mexiko","Hypoxie","Eutrophierung", "Nährstoffeintrag", "Algenblüte"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
