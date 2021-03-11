@@ -1,0 +1,67 @@
+{
+ "id": "94",
+ "language": "en",
+ "title": "Hidden Lifeline",
+ "abstract": "Our natural resources are being stretched further and further by constant population growth and increased consumption. Every year, an area half the size of the EU is degraded as a result. The World Atlas of Desertification, published in 2018 by the Joint Research Centre, states that over 75% of land area is already degraded and that 90% of soils could be degraded by 2050. To ensure the long-term productivity of soils and thus the livelihoods of millions of people, soil degradation must be stopped or rather reversed.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/94/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/94/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/94/icon.png",
+ "author": [
+   { 
+     "firstname": "Stephanie",
+     "name": "Ecks",
+     "email": "stephanie.ecks@gmx.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Ozeanien",
+   "country": "Australien ",
+   "region": "",
+   "city": "",
+   "landscape": "Tiefland",
+   "latitude": -29.5185223,
+   "longitude": 132.0349983
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Landwirtschaft", 
+ "subtopic": "Biodiversität",
+ "keywords": ["Ressourcen","Bodendegradation"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
