@@ -1,0 +1,67 @@
+{
+ "id": "131",
+ "language": "de",
+ "title": "Tipping Point Amazonas - Das Sterben des Regenwaldes",
+ "abstract": "Über 20% der einstigen Fläche des Amazonas wurden bereits abgeholzt und sind entwaldet. Der Klimawandel bringt häufigere und längere Dürreperioden und veränderte Niederschlagsmuster mit sich, die das sensible Klima destabilisieren. Menschliche Einflüsse und die Landnutzung für wirtschaftliche Zwecke treiben die Entwaldung und Fragmentierung weiter voran. Es droht der Kollaps des gesamten Systems, sollte der Regenwald mehr als 25% seiner Fläche verloren haben. Und die Entwaldung schreitet mit steigender Rate weiter voran. Die möglichen Konsequenzen des Waldsterbens im Amazonas, auch als Amazon Dieback bekannt, sind kaum vorhersehbar und nicht mit Sicherheit zu berechnen. Statt CO2 zu speichert wird auch das im Amazonas gebundene CO2 freigesetzt, dass dann den Klimawandel noch weiter verstärken wird. Mit dramatischen Folgen für das globale Klima.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/131/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/131/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/131/icon.png",
+ "authors": [
+   { 
+     "firstname": "Dennis",
+     "name": "Freese",
+     "email": "defreese@posteo.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": "Brasilien",
+   "region": "Amazonien",
+   "city": "none",
+   "landscape": "Regenwald",
+   "latitude": -2.868640,
+   "longitude": -64.294092
+ },
+ "period": {
+    "begin": 1970,
+    "end": 2020
+ },
+ "concept": "Tipping Points",
+ "topic": "Biodiversität",
+ "subtopic": "Klimawandel",
+ "keywords": ["Amazonas","Regenwald","Klimawandel"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
