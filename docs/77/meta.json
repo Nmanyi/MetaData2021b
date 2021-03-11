@@ -1,0 +1,67 @@
+{
+ "id": "77",
+ "language": "de",
+ "title": "Die Erde unterm Sonnenschirm? SRM mithilfe stratosphärischen Schwefeldioxids",
+ "abstract": "Vor dem Hintergrund klimatischer Veränderungen mit deren Folgen und dem unzureichenden Angehen derer durch konventionelles internationales Handeln sowie einem Kriseln des Mensch-Umwelt-Verhältnisses hat sich eine alternative Form globalen Umweltmanagements, zumindest im wissenschaftlichen Diskurs, etabliert: Geoengineering. SRM mittels stratosphärischen Schwefeldioxids bedarf als spekulative Vorgehensweise einer besonders kritischen und interdisziplinären Beleuchtung der technologischen Möglichkeiten ebenso wie der Komplexität und Grenzen der Kontrollierbarkeit. Ethische Fragen und Überlegungen zur potenziellen Regulierung werden hier nur angerissen, da diese gesondert behandelt werden.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/77/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/77/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/77/icon.png",
+ "authors": [
+   { 
+     "firstname": "Paul",
+     "name": "Volk",
+     "email": "paul.volk@gmx.net",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "region": null,
+   "city": null,
+   "landscape": "Atmosphäre",
+   "latitude": -44.8,
+   "longitude": -123.2
+ },
+ "period": {
+    "begin": 2000,
+    "end": null
+ },
+ "concept": "Risiko",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["Geoengineering","Technologie"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": ,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": ,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
