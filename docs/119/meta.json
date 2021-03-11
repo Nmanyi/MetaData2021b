@@ -1,0 +1,66 @@
+{
+ "id": "119",
+ "language": "en",
+ "title": "Neoliberalization of Nature: REDD+ carbon trade causes forest use conflict",
+ "abstract": "Neoliberal governance attempts to mitigate climate change have provoked controversy in forestry. The mechanism “reduce emissions from deforestation and forest degradation plus” (REDD+) is a performance-based payments scheme through which conservation incentives are given to local communities in the Global South. The REDD+ project in the Peruvian cloud forest Alto Mayo demonstrates how this marked based approach collides with rights based claims for environmental justice of the local community of indigenous Awajún.",
+ "year": 2021,
+ "orientation": "landscape",
+  "pdf": "https://globalchanges.github.io/MetaData2021b/119/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2021b/119/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2021b/119/icon.png",
+ "authors": [
+   { 
+     "firstname": "Julia",
+     "name": "Minners",
+     "email": "minnersjulia@gmail.com",
+     "freidok": null,
+     "orcid": "0000-0001-5925-3684"
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": "Peru",
+   "region": "Alto Mayo Protected Forest",
+   "city": null,
+   "landscape": "Regenwald",
+   "latitude": -5.3835
+   "longitude": -77.4200
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Umweltgerechtigkeit",
+ "topic": "Indigene Völker",
+ "subtopic": "Landnutzung",
+ "keywords": [], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
