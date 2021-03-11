@@ -1,0 +1,66 @@
+{
+ "id": "100",
+ "language": "de",
+ "title": "Unsichtbare Schutzmauer für New York City",
+ "abstract": "Im Jahr 2012 verwüstete Hurrikan Sandy ganze Stadteile, forderte viele Todesopfer und richtete Schäden in Milliardenhöhe an. Um New York City vor solchen Katastrophen und vor den Auswirkungen des Klimawandels in der Zukunft besser schützen zu können, wurden innovative und visionäre Projekte gesucht. „The Big U“ ist ein solches Zukunftsprojekt, das eine nachhaltige Stadterneuerung sowie eine langfristige klimaresiliente Stadtentwicklung umsetzt.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/100/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/100/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Julia",
+     "name": "Kobsarenko",
+     "email": "juliakobsarenko@web.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Nordamerika",
+   "country": "USA",
+   "region": "New York",
+   "city": "New York City",
+   "landscape": "Großstadt",
+   "latitude": 40.7142700,
+   "longitude": -74.0059700
+ },
+ "period": {
+    "begin": 2012,
+    "end": 2025
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Klimawandel",
+ "subtopic": "Landnutzung",
+ "keywords": ["Klimaresilienz","Klimawandelanpassung","Hochwasserschutz"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
