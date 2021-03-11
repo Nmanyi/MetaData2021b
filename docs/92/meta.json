@@ -1,0 +1,70 @@
+{
+ "id": "92",
+ "language": "de",
+ "title": "Ist der Tourismus im Hochschwarzwald in Gefahr? - Die Auswirkungen des Klimawandels auf den Tourismus im Hochschwarzwald",
+ "abstract": "2019 besuchten den Schwarzwald so viele UrlauberInnen wie nie zuvor. Doch steigende Temperaturen und unbeständige Winter sorgen dafür, dass vielerorts kein Wintersport mehr ausgeübt werden kann. Der Tourismus im Schwarzwald wird sich verändern und muss sich an das Klima anpassen. Die Natur als Grundlage vieler touristischer Aktiväten und als Erholungsort für die TouristInnen wird sich verändern. Hierfür sind Anpassungen im Sommer- und Wintertourismus erforderlich.",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "pdf2": "",
+ "image": "",
+ "orientation": "landscape",
+  "pdf": "https://globalchanges.github.io/MetaData2021b/92/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2021b/92/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2021b/92/icon.png",
+ "authors": [
+   { 
+     "firstname": "Johannes",
+     "name": "Graß",
+     "email": "johannes-grass@gmx.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "Baden-Württemberg",
+   "city": "",
+   "landscape": "Gebirge",
+   "latitude": 47.859722,
+   "longitude": 8.036392
+ },
+ "period": {
+    "begin": 1880,
+    "end": 2100
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Klimawandel",
+ "subtopic": "Landnutzung",
+ "keywords": ["Klimawandel im Mittelgebirge","Tourismus im Mittelgebirge","Schwarzwald"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
