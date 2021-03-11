@@ -1,0 +1,68 @@
+{
+ "id": "80",
+ "language": "en",
+ "title": "Geoengineering: moral hazards and governance",
+ "abstract": "Geoengineering is a controversial topic amongst researchers. The various geoengineering processes could help us finghting climate change but they also bear many risks. Also, they raise questions of governance and regulation. ",
+ "year": 2020,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/80/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/80/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/80/icon.png",
+ "authors": [
+   { 
+     "firstname": "Neshainthi",
+     "name": "Navarathinam",
+     "email": "neshainthi.navarathinam@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "region": null",
+   "city": null",
+   "landscape": null,
+   "latitude": -44.9,
+   "longitude": -123.2
+ },
+ "period": {
+    "begin": 1900,
+    "end": 2100
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["geoenigineering","gamble","democratisation"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
