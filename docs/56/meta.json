@@ -1,0 +1,67 @@
+{
+ "id": "56",
+ "language": "de",
+ "title": "Norddeutschland droht die Flut!",
+ "abstract": "Der Klimawandel schreitet weiter voran. Der Meeresspiegelanstieg als Folge des anthropogenen Klimawandels könnte zu schwerwiegenden Problemen führen. Vor allem sind die Küstenregionen betroffen und somit auch Norddeutschland. Was das für die Region der deutschen Nordseeküste bedeutet und welche Maßnahmen bereits jetzt und zukünftig in Planung sind, um gravierende Folgen zu verhindern, soll in diesem Plakat erläutert und dargestellt werden. Da sich die Ostsee und die Nordsee stark voneinander unterscheiden und Maßnahmen und Folgen teilweise sehr unterschiedlich ausfallen, wurde sich innerhalb Norddeutschlands lediglich auf die deutsche Nordseeküste fokussiert.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/56/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/56/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/56/icon.png",
+ "authors": [
+   { 
+     "firstname": "Charlotte",
+     "name": "Schröer",
+     "email": "charlotteschroeer@web.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "Norddeutschland",
+   "city": "",
+   "landscape": "Meer",
+   "latitude": 	51.00, 
+   "longitude": 9.00
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2100
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Meeresspiegel",
+ "subtopic": "Katastrophe",
+ "keywords": ["Meeresspiegelanstieg","Küstenschutz","Sturmfluten", "Deutsche Nordseeküste"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
