@@ -1,0 +1,70 @@
+﻿{
+ "id": "63",
+ "language": "de",
+ "title": "Nur Migration oder auch Integration? Chancen und Herausforderungen bei der Integration von schulpflichtigen Schutzsuchenden.",
+ "abstract": "Laut dem statistischen Bundesamt hat in Deutschland jede vierte Person einen Migrationshintergrund - was einem Anteil von über 26 % an der Gesamtbevölkerung entspricht. In den letzten Jahren sind im Zuge der Flüchtlingsmigration über mehr als eine halbe Millionen weitere junge Menschen im Alter von 6-25 Jahren nach Deutschland geflüchtet. Insbesondere die kommunale Ebene sollte dazu Integrationsmaßnahmen zur Verfügung zu stellen, um die Schutzsuchenden bestmöglich in die Gesellschaft integrieren zu können. Bildung kann hierzu als Schlüssel zur Integration von Schutzsuchenden angesehen werden, sodass die Bildungspolitik gefordert ist, dies zu gewährleisten. Neben den vielen Chance entstehen auch zahlreiche Herausforderungen, die sowohl auf Seiten der Schutzsuchenden als auch auf Seiten der Kommunen zu bewältigen sind.",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "pdf2": "",
+ "image": "",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/63/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/63/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/63/icon.png",
+ "authors": [
+   { 
+     "firstname": "Anastasia",
+     "name": "Schoch",
+     "email": "anastasia.schoch@stud.ph-freiburg.de",
+     "freidok": "",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "",
+   "city": "",
+   "landscape": "Land",
+   "latitude": 9.00,
+   "longitude": 51.00
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2021
+ },
+ "concept": "Critical Zones",
+ "topic": "Migration",
+ "subtopic": "Bildung","Bevölkerungswachstum"
+ "keywords": ["Migration","Bildung","Asyl"], 
+ "sources": 
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
+
