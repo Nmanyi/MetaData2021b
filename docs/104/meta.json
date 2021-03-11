@@ -1,0 +1,67 @@
+{
+ "id": "104",
+ "language": "de",
+ "title": "Wer räumt unsere Meere auf?",
+ "abstract": "Die Plastikverschmutzung in den Ozeanen ist inzwischen zu einem großen Problem auf dem Planeten geworden. Dabei kommt Plastik in verschiedenen Arten im Wasser vor und lässt sich auf jedem Fleck der Erde im Wasser ausfindig machen. In den letzten Jahren sind einige Projekte entstanden, die sich als Ziel gesetzt haben Plastik aus den Ozeanen zu entfernen (Plastic Removal).",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/104/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/104/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/104/icon.png",
+ "authors": [
+   { 
+     "firstname": "Elias",
+     "name": "Müller",
+     "email": "elias.mueller@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "countries": [],
+   "region": null,
+   "city": null,
+   "landscape": "Meer",
+   "latitude": -46.1,
+   "longitude": -123.0
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Footprint",
+ "topic": "Verschmutzung",
+ "subtopic": "Wasser",
+ "keywords": [], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+
+
+
+}
