@@ -31,9 +31,9 @@
     "begin": null,
     "end": null
  },
- "concept": "Risiko"
- "topic": "Klimawandel"
- "subtopic": "Landnutzung"
+ "concept": "Risiko",
+ "topic": "Klimawandel",
+ "subtopic": "Landnutzung",
  "keywords": ["Corals", "Local Threats","Global Threats"], 
  "sources": [
    {

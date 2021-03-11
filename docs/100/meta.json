@@ -8,6 +8,7 @@
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData2021b/100/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2021b/100/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/100/icon.png",
  "authors": [
    { 
      "firstname": "Julia",
