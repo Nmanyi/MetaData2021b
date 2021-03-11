@@ -1,0 +1,55 @@
+{
+ "id": "67",
+ "language": "de",
+ "title": "Biopolitische Strukturen der Camps auf Lesbos ",
+ "abstract": "'Abstand halten, Hygienemaßnahmen einhalten, Alltag mit Maske?' – All diese Schutzmaßnahmen sind währen der COVID19-Pandemie für die Bewohner*innen der überfüllten Camps auf Lesbos nur schwer einzuhalten. Foucault beschreibt mit dem Konzept der Biopolitik die Macht eines Souveräns, „Leben [zu] machen und sterben [zu] lassen“. Inwieweit werden solche biopolitische Strukturen in den Camps auf Lesbos währen der COVID19-Pandemie im Jahr 2020 sichtbar? Ein nicht-binäres Konzept von Biopolitik ermöglicht es dabei, komplexe und mehrschichtige Aushandlungsprozesse von Biopolitik darzustellen, die auch die Agency der Camp-Bewohner*innen und anderer Akteure miteinbeziehen kann.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/67/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/67/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/67/icon.png",
+ "authors": [
+   { 
+     "firstname": "Stella",
+     "name": "Roeper",
+     "email": "stella.roeper@gmail.com",
+     "freidok": null,
+     "orcid": "0000-0002-6952-7383"
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Griechenland",
+   "region": "Lesbos",
+   "city": "",
+   "landscape": "Inseln",
+   "latitude": 39.13475, 
+   "longitude": 26.50357
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2050
+ },
+ "concept": "Wertebasiert",
+ "topic": "Migration",
+ "subtopic": "Gesundheit",
+ "keywords": ["Biopolitik","Covid-19","Camp"], 
+ "sources": [
+   {
+      "type": "Video",
+      "authors": "Eldin, Yousef; BBC",
+      "year": 2020,
+      "title": "Coronavirus: Protecting Yourself in a Migrant Camp",
+      "doi": "",
+      "url": "https://www.bbc.com/news/av/world-52095552",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
