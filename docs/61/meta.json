@@ -1,0 +1,55 @@
+{
+ "id": "61",
+ "language": "de",
+ "title": "Klimawandel unter dem Boden!",
+ "abstract": "---",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/61/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/61/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/61/icon.png",
+ "authors": [
+   { 
+     "firstname": "Steffen",
+     "name": "Hess",
+     "email": "steffen.hess@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": "Russland",
+   "region": "Jakutien",
+   "city": "Batagai",
+   "landscape": "Tundra",
+   "latitude": 67.58,
+   "longitude": 134.77
+ },
+ "period": {
+    "begin": 1990,
+    "end": 2080
+ },
+ "concept": "Wirkpfade",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["Thermokarst","Methanspeicher","Rückkopplungseffekt"], 
+ "sources": [
+   {
+      "type": "YouTube-Video",
+      "authors": "ARTEde",
+      "year": 2020,
+      "title": "Sibirien taut auf | ARTE Re:",
+      "doi": "",
+      "url": "https://www.youtube.com/watch?v=eF0thrfpPRo&ab_channel=ARTEde",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
