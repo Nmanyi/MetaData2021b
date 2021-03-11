@@ -1,0 +1,42 @@
+{
+ "id": "64",
+ "language": "de",
+ "title": "Die Argumente für 'offene Grenzen'",
+ "abstract": "---",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/64/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/64/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/64/icon.png",
+ "authors": [
+   { 
+     "firstname": "Manuel",
+     "name": "Kohler",
+     "email": "manuel.kohler@yahoo.de",
+     "freidok": null,
+     "orcid": "0000-0002-7904-0229"
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "region": "",
+   "city": "",
+   "landscape": null,
+   "latitude": -44.7,
+   "longitude": -123.1
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Diskursanalyse",
+ "topic": "Migration",
+ "subtopic": "Wirtschaft",
+ "keywords": ["borders","open","migration"], 
+ "sources": []
+  
+
+
+}
