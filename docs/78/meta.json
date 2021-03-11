@@ -1,0 +1,66 @@
+{
+ "id": "78",
+ "language": "de",
+ "title": "Können wir unseren Planeten noch reparieren? - Geoengineering durch Carbon Dioxid Removal",
+ "abstract": "Die globale Konzentration von Kohlenstoffdioxid ist seit Beginn der Industrialisierung um 44% angestiegen. Die weltweite Kohlenstoffdioxid-Konzentration in unserer Atmosphäre, lag damit bereits 2019 knapp über einem kritischen Wert von 400 ppm Kohlendioxid. Die Geoengineering Maßnahmen von Carbon Dioxid Removal fassen verschiedene technische Verfahren zusammen, welche alle das Ziel verfolgen, die Konzentration des Treibhausgases Kohlenstoffdioxid in unserer Atmosphäre zu verringern.",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/78/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/78/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/78/icon.png",
+ "authors": [
+   { 
+     "firstname": "David",
+     "name": "Knobelspies",
+     "email": "david.knoblepsies@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "region": "",
+   "city": "",
+   "landscape": "Atmosphäre",
+   "latitude": -45.2,
+   "longitude": -122.9
+ },
+ "period": {
+    "begin": 1977,
+    "end": 2100
+ },
+ "concept": "Tipping Points",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["Carbon Dioxid Removal","Kohlenstoffdioxid Bindung","Geoengineering"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
