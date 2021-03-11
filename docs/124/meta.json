@@ -1,0 +1,66 @@
+{
+ "id": "124",
+ "language": "de",
+ "title": "Der verletzliche Wald",
+ "abstract": "Der Waldzustandsbericht für das Jahr 2020 konstatiert, dass der Wald seit Beginn der Messungen 1984 noch nicht in einem derartig schlechten Zustand war. Grund hierfür ist u.a. die Dürre von 2018 und 2019, die sich, wenn auch in abgeschwächter Form, 2020 fortgesetzt hat. Dabei greift die Dürre einen durch unterschiedliche Einflüsse schon geschädigten Wald an. Gleichzeitig hat der Wald die Möglichkeiten, zum Teil unterstützt durch gesellschaftliche Maßnahmen, sich an widrige Umstände anzupassen. Es stellt sich die Frage, wie verletzlich der Wald ist. Dies wird anhand des Konzepts der Vulnerabilität untersucht.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/124/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/124/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Dominik",
+     "name": "Ortseifen",
+     "email": "ortseifen@posteo.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": null,
+   "city": null,
+   "landscape": "Wald",
+   "latitude": 48.2,
+   "longitude": 8.3
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Klimaextreme",
+ "subtopic": "Biodiversität",
+ "keywords": ["Vulnerabilität","Wald","Dürre"], 
+ "sources": [
+   {
+      "type": "Zeitungsartikel",
+      "authors": "TAZ",
+      "year": 2021,
+      "title": "Wälder so krank wie noch nie",
+      "doi": "",
+      "url": "https://taz.de/Waldzustandsbericht-2020/!5753806/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Zeitungsartikel",
+      "authors": "Zeit Online",
+      "year": 2021,
+      "title": "Dürre, Stürme und Borkenkäfer schaden den deutschen Wäldern",
+      "doi": "",
+      "url": "https://www.zeit.de/wissen/2021-02/waldzustandsbericht-2020-julia-kloeckner-waelder-umweltschutz-klimawandel?utm_referrer=https%3A%2F%2Fwww.startpage.com%2F",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
