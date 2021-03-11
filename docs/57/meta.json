@@ -1,0 +1,63 @@
+{
+  "id": "57",
+  "language": "de",
+  "title": "Globale Wasserkrise - das blaue Gold des Planeten in Gefahr?",
+  "abstract": "Wasser ist die wertvollste und unersetzlichste Ressource auf unserem Planeten, ohne die es kein Leben gäbe. Doch das Wasser wird knapp, denn obwohl die Erde mit über 70% von Wasser bedeckt ist, sind für uns Menschen nur 1% Süßwasser verfügbar. Welche Faktoren sind für die globale Wasserkrise verantwortlich und welche Folgen und Risiken ziehen diese mit sich? Gibt es Lösungsansätze, welche die aktuelle Krisensituation verbessern können?",
+  "year": 2021,
+  "orientation": "landscape",
+  "pdf": "https://globalchanges.github.io/MetaData2021b/57/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2021b/57/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2021b/57/icon.png",
+  "authors": [
+    {
+      "firstname": "Anja",
+      "name": "Raidt",
+      "email": "anja.raidt@stud.ph-freiburg.de",
+      "freidok": null,
+      "orcid": null
+    }
+  ],
+  "location": {
+    "continent": "Welt",
+    "country": null,
+    "region": "",
+    "city": "",
+    "landscape": "Meer",
+    "latitude": -44.8,
+    "longitude": -122.8,
+  },
+  "period": {
+    "begin": 1800,
+    "end": 2050
+  },
+  "concept": "Risiko",
+  "topic": "Wasser",
+  "subtopic": "Klimawandel",
+  "keywords": ["Wasserkrise"],
+  "sources": [
+    {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+    },
+    {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+    }
+  ]
+}
