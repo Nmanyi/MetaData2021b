@@ -1,0 +1,67 @@
+{
+ "id": "106",
+ "language": "de",
+ "title": "Niederlande - Das erste Atlantis?",
+ "abstract": "Seit Jahren kämpft die Niederlande gegen Hochwasser. Im Laufe der Jahre gab es einige Katastrophen mit tausenden Toten. Die Niederländer haben es sich zur Aufgabe gemacht, ihr Land vor dem Wasser zu schützen. Mitlerweile sind sie eine der führenden Nationen auf dem Gebiet der Hochwasserbekämpfungsmaßnahmen. Durch den Global Change müssen die Maßnahmen jedoch immer wieder erneuert ud überdacht werden. Können die Niederländer ihr Land auf Dauer schützen?",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/106/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/106/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/106/icon.png",
+ "authors": [
+   { 
+     "firstname": "Philipp",
+     "name": "Elsner",
+     "email": "philipp.elsner@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Niederlande",
+   "region": "",
+   "city": "",
+   "landscape": "Küste",
+   "latitude": 51.916667,
+   "longitude": 5.566667
+ },
+ "period": {
+    "begin": 1953,
+    "end": 2021
+ },
+ "concept": "Critical Zones",
+ "topic": "Meeresspiegel",
+ "subtopic": "Klimawandel",
+ "keywords": ["Küstenschutz","Meeresspiegel",""], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
