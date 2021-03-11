@@ -1,0 +1,163 @@
+{
+ "id": "73",
+ "language": "de",
+ "title": "Keine Hoffnung mehr für das Great Barrier Reef?",
+ "abstract": "Das Great Barrier Reef ist das größte Korallenriff der Welt. Damit sich das Korallenriff optimal entwickeln kann und ihre wunderbare Farbenpracht vorhanden sein kann, müssen einige Faktoren gegeben sein. Dabei sind Wassertemperaturen zwischen 21° und 30° Grad, sowie lichtdurchflutetes Wasser besonders wichtig. Allerdings ist das Korallenriff einigen Gefahren ausgesetzt, die langwierige Folgen nach sich ziehen. Daher stellt sich nun die Frage, ob das Great Barrier Reef unter diesen Umständen weiter bestehen bleiben kann. „Keine Hoffnung mehr für das Great Barrier Reef?“"
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/73/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/73/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/73/icon.png",
+ "authors": [
+   { 
+     "firstname":"Stefanie",
+     "name": "Diplich",
+     "email": "stefanie.diplich@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": "0000-0003-0287-7378"
+   }
+ ],
+ "location": {
+   "continent": "Ozeanien",
+   "country": "Australien",
+   "region": "Nordostküste",
+   "city": "Queensland",
+   "landscape": "Meer",
+   "latitude": -18.287067,
+   "longitude": 147.699192
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Netzwerkanalyse",
+ "topic": "Klimawandel",
+ "subtopic": "Biodiversität",
+ "keywords": ["Korallensterben","Great Barrier Reef","Klimawandel", "El Nino", "Tourismus", "Dornenkronen-Seestern", "Landwirtschaft", "Kohleindustrie", "Langzeitnachhaltigkeitsplan"], 
+ "sources": [
+   {
+      "type": "Artikel",
+      "authors": "Greenpeace",
+      "year": 2014,
+      "title": "Korallen - Ein tropisches Farbenparadies stirbt",
+      "doi": "",
+      "url": "https://www.greenpeace.de/themen/artenvielfalt/korallen-ein-tropisches-farbenparadies-stirbt?BannerID=0818008015001047&gclid=CjwKCAiAp4KCBhB6EiwAxRxbpBt3SjJQd0cDgbm_zyQ21cP7e91xwOyzKeectMgpQJoCXTGIjdAcyhoCRVEQAvD_BwEc",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Aritkel",
+      "authors": "BR Wissen",
+      "year": 2018,
+      "title": "Great Barrier Reef. Korallenriff auf der Intensivstation",
+      "doi": "",
+      "url": "https://www.br.de/wissen/great-barrier-reef-korallen-aktionsplan-australien-100.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+ {
+      "type": "Artikel",
+      "authors": "WWF",
+      "year": 2020,
+      "title": "Dramatische Korallenbleiche im Great Barrier Reef",
+      "doi": "",
+      "url": "https://www.wwf.de/2020/maerz/dramatische-korallenbleiche-im-great-barrier-reef",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+ },
+ {
+      "type": "Artikel",
+      "authors": "WDR",
+      "year": 2015,
+      "title": "20. Juni 1975 - Das "Great Barrier Reef" wird Wasserschutzgebiet",
+      "doi": "",
+      "url": "https://www1.wdr.de/stichtag/stichtag-310.html#:~:text=Es%20besteht%20aus%20etwa%202.900,die%20Welterbeliste%20der%20UNESCO%20aufgenommen",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+ },
+ {
+      "type": "Artikel",
+      "authors": "Greenpeace - Michelle Bayona",
+      "year": 2015,
+      "title": "UNESCO sorgt sich um Great Barrier Reef. Rote Karte für Australien",
+      "doi": "",
+      "url": "https://www.greenpeace.de/themen/meere/rote-karte-fuer-australien",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+},
+ {
+      "type": "Artikel",
+      "authors": "Greenpeace - Michelle Bayona",
+      "year": 2015,
+      "title": "Ausbaggerungen bedrohen Great Barrier Reef. Grünes Licht für dreckige Kohle",
+      "doi": "",
+      "url": "https://www.greenpeace.de/themen/meere/gruenes-licht-fuer-dreckige-kohle",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+ },
+ {
+      "type": "Artikel",
+      "authors": "Eberhard Pyritz",
+      "year": 2016,
+      "title": "Abbot Point - umstrittener Kohlehafen in Australien",
+      "doi": "",
+      "url": "https://www.klett.de/sixcms/detail.php?template=terrasse_artikel__layout__pdf&art_id=1105116",
+      "journal": "",
+      "volume": null,
+      "publisher": "Klett",
+      "pages": ""
+},
+ {
+      "type": "Bericht",
+      "authors": "Australien Goverment Queensland",
+      "year": 2018,
+      "title": "Reef 2050 Long-Term Sustainability Plan",
+      "doi": "",
+      "url": "https://www.environment.gov.au/system/files/resources/35e55187-b76e-4aaf-a2fa-376a65c89810/files/reef-2050-long-term-sustainability-plan-2018.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+},
+ {
+      "type": "Artikel",
+      "authors": "WWF",
+      "year": 2014,
+      "title": "Hafenentwicklungspläne Queensland, Australien. Das Große Barriere-Riff in Gefahr. Im Fokus: Abbot Point-Ausbau zum größten Kohlehafen der Welt",
+      "doi": "https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF-Hintergrund-Great-Barrier-Reef-Kohlehafen.pdf",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+},
+ {
+      "type": "Artikel",
+      "authors": "WWF",
+      "year": 2014,
+      "title": "Vom Weltnaturerbe zum weltgrößten Kohlehafen? Industrialisierungswelle bedroht australisches Great Barrier Reef",
+      "doi": "",
+      "url": "https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF-Positionspapier-Great-Barrier-Reef-Kohlehafen.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+ 
+
+
+}
