@@ -1,0 +1,67 @@
+{
+ "id": "85",
+ "language": "de",
+ "title": "'Zwischen Leben und Tod' - Die humanistische Eliminierung und Reanimation der Mangrovenwälder",
+ "abstract": "Mangrovenwälder zwischen Meer und Land. Hier wurzeln und wachsen diese Pflanzen an den tropischen und subtropischen Küsten. Ein Ökosystem, welches zu den produktivsten und anpassungsfähigsten Systemen der Welt zählt. Leider wandelte sich die Art der Nutzung in den letzten Jahren, wodurch „Aus“-nutzung dieses Naturraumes resultierte. Die Sättigung einer weltweit expandierenden Nachfrage von Garnelen, lassen profitmaximierende Erzeugungsstätten entstehen. Noch schneller als Regenwälder schwinden somit Mangrovensümpfe. Weltweit sind in den letzten Jahren weit mehr als ein Drittel des Mangrovenbestandes abgeholzt worden, was dramatische Folgen für Mensch, Tier und Natur hat.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/85/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/85/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/85/icon.png",
+ "authors": [
+   { 
+     "firstname": "Ann-Kathrin",
+     "name": "Hameister",
+     "email": "ann.hameister@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": "null"
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": "Thailand",
+   "region": "",
+   "city": "",
+   "landscape": "Küste",
+   "latitude": 30.0,
+   "longitude": 30.0
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Landnutzung",
+ "subtopic": "Landwirtschaft",
+ "keywords": ["Mangroven","Rodung","Wiederaufforstung","Aquakulturen"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
