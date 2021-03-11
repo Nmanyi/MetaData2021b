@@ -2,7 +2,7 @@
  "id": "56",
  "language": "de",
  "title": "Norddeutschland droht die Flut!",
- "abstract": "Der Klimawandel schreitet weiter voran. Der Meeresspiegelanstieg als Folge des anthropogenen Klimawandels könnte zu schwerwiegenden Problemen führen. Vor allem sind die Küstenregionen betroffen und somit auch Norddeutschland. Was das für die Region der deutschen Nordseeküste bedeutet und welche Maßnahmen bereits jetzt und zukünftig in Planung sind, um gravierende Folgen zu verhindern, soll in diesem Plakat erläutert und dargestellt werden. Da sich die Ostsee und die Nordsee stark voneinander unterscheiden und Maßnahmen und Folgen teilweise sehr unterschiedlich ausfallen, wurde sich innerhalb Norddeutschlands lediglich auf die deutsche Nordseeküste fokussiert.",
+ "abstract": "Der Klimawandel schreitet weiter voran. Der Meeresspiegelanstieg als Folge des anthropogenen Klimawandels kÃ¶nnte zu schwerwiegenden Problemen fÃ¼hren. Vor allem sind die KÃ¼stenregionen betroffen und somit auch Norddeutschland. Was das fÃ¼r die Region der deutschen NordseekÃ¼ste bedeutet und welche MaÃŸnahmen bereits jetzt und zukÃ¼nftig in Planung sind, um gravierende Folgen zu verhindern, soll in diesem Plakat erlÃ¤utert und dargestellt werden. Da sich die Ostsee und die Nordsee stark voneinander unterscheiden und MaÃŸnahmen und Folgen teilweise sehr unterschiedlich ausfallen, wurde sich innerhalb Norddeutschlands lediglich auf die deutsche NordseekÃ¼ste fokussiert.",
  "year": 2021,
  "freidok": "",
  "orientation": "portrait",
@@ -12,7 +12,7 @@
  "authors": [
    { 
      "firstname": "Charlotte",
-     "name": "Schröer",
+     "name": "SchrÃ¶er",
      "email": "charlotteschroeer@web.de",
      "freidok":"",
      "orcid": ""
@@ -34,7 +34,7 @@
  "concept": "Vulnerabel&Resilienz",
  "topic": "Meeresspiegel",
  "subtopic": "Katastrophe",
- "keywords": ["Meeresspiegelanstieg","Küstenschutz","Sturmfluten", "Deutsche Nordseeküste"], 
+ "keywords": ["Meeresspiegelanstieg","KÃ¼stenschutz","Sturmfluten", "Deutsche NordseekÃ¼ste"], 
  "sources": [
    {
       "type": "",
