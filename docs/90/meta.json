@@ -1,0 +1,140 @@
+{
+ "id": "90",
+ "language": "de",
+ "title": "buen vivir - das Gute Leben",
+ "abstract": "Buen Vivir (das Gute Leben) beruht auf die Philosophie und Wertvorstellungen der indigenen Bevölkerung der Andenländer. Das Konzept ist eine Alternative zum klassischen Entwicklungsmodell. Allerdings gibt es kein einheitliches buen vivir, sondern verschiedene Interpretationen",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/90/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/90/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/90/icon.png",
+ "authors": [
+   { 
+     "firstname": "Ottavio",
+     "name": "da Cruz",
+     "email": "ottavio.dacruz@stud.ph-freiburg,de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Südamerika",
+   "country": null,
+   "countries": ["Bolivien","Ecuador"],
+   "region": "",
+   "city": "",
+   "landscape": null,
+   "latitude": 14.6048,
+   "longitude": 59.0625
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Umweltgerechtigkeit",
+ "topic": "Indigene Völker",
+ "subtopic": "Politik",
+ "keywords": ["buen vivir","sumak kawasay","Bolivien", "Ecuador", "Institutionalisierung", "Entkolonalisierung", "Komplementarität","Mulitpluralität", "indigene Bevölkerung", "Post-Developement"], 
+ "sources": [
+   {
+      "type": "Zeitschrift",
+      "authors": "Carballo, A. E., Beling, A., & Vanhulst, J. ",
+      "year": 2018,
+      "title": "Buen vivir",
+      "doi": "https://doi.org/10.3224/peripherie.v38i1.06",
+      "url": "https://www.ssoar.info/ssoar/bitstream/handle/document/58826/ssoar-2018-1-carballo_et_al-Buen_vivir.pdf?sequence=1&isAllowed=y&lnkname=ssoar-2018-1-carballo_et_al-Buen_vivir.pdf",
+      "journal": "PERIPHERIE - Politik, Ökonomie, Kultur",
+      "volume": null,
+      "publisher": "SSOAR",
+      "pages": "96-99"
+   },
+   {
+      "type": "Zeitschrift",
+      "authors": "Cubillo-Guevara, A. P., Vanhulst, J., Hidalgo-Capitán, A. L., & Beling, A.",
+      "year": 2018,
+      "title": "Die lateinamerikanischen Diskurse zu buen vivir: Entstehung, Institutionalisierung und Veränderung",
+      "doi": "https://doi.org/10.3224/peripherie.v38i1.01",
+      "url": "",
+      "journal": "Budrich Journal",
+      "volume": null,
+      "publisher": "PERIPHERIE - Politik, Ökonomie, Kultur",
+      "pages": "8-28"
+   },
+   {
+      "type": "Interview",
+      "authors": "Frank B.",
+      "year": 2011,
+      "title": "Das Gute Leben in Verfassung und Politik",
+      "doi": "",
+      "url": "",
+      "journal": "ila",
+      "volume": null,
+      "publisher": "indigena-Verbandes CONAIE",
+      "pages": ""
+   },
+   {
+      "type": "Zeitungsartikel",
+      "authors": "Krüger, T.",
+      "year": 2018,
+      "title": "Politische Strategien des buen vivir. Sozialistische Regierungspolitik, indigene Selbstbestimmung und Überwindung des wachstumsbasierten Entwicklungsmodells",
+      "doi": "https://doi.org/10.3224/peripherie.v38i1.02",
+      "url": "",
+      "journal": "Peripherie",
+      "volume": null,
+      "publisher": "Barbara Burdrich",
+      "pages": "29-54"
+   },
+   {
+      "type": "Zeitschrift",
+      "authors": "Larrea, M.",
+      "year": 2010,
+      "title": "Buen Vivir als Gegenhegemonialer Prozess",
+      "doi": "",
+      "url": "https://www.zeitschrift-luxemburg.de/buen-vivir-als-gegenhegemonialer-prozess/",
+      "journal": "Luxemburg Gesellschaftsanalyse und linke Praxis",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "Magazin",
+      "authors": "Poma, M.",
+      "year": 2009,
+      "title": "Das Wirtschaftsmodell Boliviens",
+      "doi": "",
+      "url": "http://www.quetzal-leipzig.de/lateinamerika/bolivien/das-wirtschaftsmodell-boliviens-19093.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "Quetzal",
+      "pages": ""
+   },
+   {
+      "type": "Buch",
+      "authors": "Schmid, E.",
+      "year": 2014,
+      "title": "Die Frage nach dem guten Leben",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Wiener Verlag für Sozialforschung",
+      "pages": ""
+   },
+   {
+      "type": "Internetseite",
+      "authors": "Wahle, M.",
+      "year": 2011,
+      "title": "Eine Alternative auch für Europa?",
+      "doi": "",
+      "url": "https://www.attac-netzwerk.de/ag-lateinamerika/buen-vivir/ ",
+      "journal": "attac",
+      "volume": null,
+      "publisher": "Wiener Verlag für Sozialforschung",
+      "pages": ""
+   }
+ ]
+ 
+
+
+}
