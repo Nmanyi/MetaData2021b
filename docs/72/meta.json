@@ -1,0 +1,67 @@
+{
+ "id": "72",
+ "language": "en",
+ "title": "The Coral Triangle",
+ "abstract": "The Coral Triangle is a marine area that includes parts of Indonesia, Malaysia, Papua New Guinea, the Philippines, the Solomon Islands and Timor-Leste with at least 500 species of reef-building corals. Threats to coral reefs come from both local and global sources. Most coral reefs occur near shore. As a result, they are particularly vulnerable to the effects of human activities. Overfishing and methods of harvesting fish are unsustainable at current levels. But there are also climate impacts affecting coral reefs.",
+ "year": 2021,
+ "orientation": "portrait",
+ "pdf":"https://globalchanges.github.io/MetaData2021b/72/poster.pdf",
+ "thumbnail":"https://globalchanges.github.io/MetaData2021b/72/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/72/icon.png",
+ "authors": [
+   { 
+     "firstname": "Beste",
+     "name": "Bakir",
+     "email": "beste.bakir@ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Asia",
+   "country": null,
+   "countries": ["Indonesien", "Philippinen", "Malaysia", "Timor-Leste", "Papua-Neu-Guinea", "Solomonen"],
+   "region": "Coral Triangle",
+   "city": null,
+   "landscape": "Inseln",
+   "latitude": 2.5585404,
+   "longitude": 137.1776873
+ },
+ "period": {
+    "begin": null,
+    "end": null
+ },
+ "concept": "Risiko"
+ "topic": "Klimawandel"
+ "subtopic": "Landnutzung"
+ "keywords": ["Corals", "Local Threats","Global Threats"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
