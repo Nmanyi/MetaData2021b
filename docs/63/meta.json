@@ -23,9 +23,9 @@
  "location": {
    "continent": "Europa",
    "country": "Deutschland",
-   "region": "",
-   "city": "",
-   "landscape": "Land",
+   "region": null,
+   "city": null,
+   "landscape": null,
    "latitude": 9.00,
    "longitude": 51.00
  },

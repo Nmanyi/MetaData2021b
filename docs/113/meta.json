@@ -8,6 +8,7 @@
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData2021b/113/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2021b/113/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/113/icon.png",
  "authors": [
    { 
      "firstname": "Matthias",
