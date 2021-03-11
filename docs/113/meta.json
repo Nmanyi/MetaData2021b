@@ -1,0 +1,79 @@
+{
+ "id": "113",
+ "language": "de",
+ "title": "Klimaresiliente Stadtplanung - Urban Heat Island Wien",
+ "abstract": "Nach Schätzung der Vereinten Nationen werden im Jahr 2050 6 Mrd. Menschen in Städten leben.Die Folgen der stark wachsenden Bevölkerungsdichte in Städte sind stetig wachsende Siedlungsräume, innerstädtische Verdichtung und die damit verbundene Versiegelung permeabler Vegetationsflächen. In Kombination mit der globalen Klimaerwärmung wird der sogenannte Urban Heat Island Effekt durch diese städtebaulichen Maßnahmen verstärkt. Es ist zu erwarten, dass die Zeiträume städtischer Hitzetage und Überwärmung zunehmen werden. Die Stadt Wien versucht in ihrem Stategieplan zum Urban Heat Island Effekt diesen durch geeignete  Maßnahmen zu verringern, um so nicht nur nachhaltiger, sondern ebenfalls anpassungsfähig an die klimatischen Veränderungen zu werden.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/113/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/113/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Matthias",
+     "name": "Brecht",
+     "email": "matthias.brecht@stud.ph-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   },
+   
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Österreich",
+   "region": "Wien",
+   "city": "Wien",
+   "landscape": "Stadt",
+   "latitude": 48.1441,
+   "longitude": 16.3062
+ },
+ "period": {
+    "begin": 2010,
+    "end": 2050
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Urbanisierung",
+ "subtopic": "Klimawandel",
+ "keywords": ["Urban Heat Island","Urbanes Grün"], 
+ "sources": [
+{
+      "type": "Doctoral dissertation",
+      "authors": "J.Weninger",
+      "year": 2018,
+      "title": "Greening Aspang Klimawandelanpassung und Partizipation",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Uni Wien",
+      "pages": ""
+   },
+   {
+      "type": "Doctoral dissertation",
+      "authors": "V.Kampusch",
+      "year": 2018,
+      "title": "Grün findet Stadt-; Potentiale und Barrieren für grüne Infrastruktur in urbanen 		       Gebieten am Beispiel von Wien",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Uni Wien",
+      "pages": ""
+   },
+{
+      "type": "Strategieplan",
+      "authors": "Magistratsabteilung 22, Wiener Umweltschutzabteilung",
+      "year": 2015,
+      "title": "Urban Heat Islands–Strategieplan Wien",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Wiener Umweltschutzabteilung",
+      "pages": ""
+   },
+ ]
+  
+
+
+}
