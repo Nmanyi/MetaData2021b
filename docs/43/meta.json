@@ -1,0 +1,67 @@
+{
+ "id": "43",
+ "language": "de",
+ "title": "Wie lange gibt es noch Eis in den Tropen?",
+ "abstract": "Der Kilimanjaro und das Abschmelzen seiner Eiskappe wird international in den Medien als ikonisches Beispiel für die globale Erwärmung dargestellt. Doch ist der Klimawandel wirklich Schuld am Eisrückgang in Afrika? Hier werden der Gletscherrückgang des Kilimanjaromassivs und die möglichen Ursachen dafür aufgezeigt, dir Prognosen – wie lange es noch Eis in den afrikanischen Tropen gibt – erläutert und die Folgen eines kompletten Abschmelzens der Eismassen angeschnitten.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/43/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/43/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/43/icon.png",
+ "authors": [
+   { 
+     "firstname": "Almut",
+     "name": "Ballstaedt",
+     "email": "almut.ballstaedt@students.uni-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Tansania",
+   "region": "Kilimanjaro",
+   "city": "",
+   "landscape": "Gebirge",
+   "latitude": -3.067425,
+   "longitude": 37.355627
+ },
+ "period": {
+    "begin": 1880,
+    "end": 2030
+ },
+ "concept": "Vulnerael&Resilienz",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["Gletscher","Kilimanjaro"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
