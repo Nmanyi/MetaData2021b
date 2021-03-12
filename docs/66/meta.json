@@ -1,4 +1,4 @@
-﻿{
+{
  "id": "66",
  "language": "en",
  "title": "Great Green Wall",
@@ -20,19 +20,7 @@
  "location": {
    "continent": "Afrika",
    "country": null,
-
-C
-D
-A
-B
-A
-B
-A
-B
-B
-A
-A
-   "country": ["Mauretanien","Mali","Burkina Faso","Niger","Nigeria","Tschad","Senegal","Sudan","Eritrea","Aethiopien","Dschibuti"],
+   "countries": ["Mauretanien","Mali","Burkina Faso","Niger","Nigeria","Tschad","Senegal","Sudan","Eritrea","Äthiopien","Dschibuti"],
    "region": "Sahel",
    "city": null,
    "landscape": "Wüste",
@@ -86,6 +74,4 @@ A
    }
  ]
   
-
-
 }
