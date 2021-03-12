@@ -20,7 +20,7 @@
  "location": {
    "continent": "Afrika",
    "country": null,
-   "countries": ["Mauretanien","Mali","Burkina Faso","Niger","Nigeria","Tschad","Senegal","Sudan","Eritrea","Äthiopien","Dschibuti"],
+   "countries": ["Mauretanien","Mali","Burkina-Faso","Niger","Nigeria","Tschad","Senegal","Sudan","Eritrea","Äthiopien","Dschibuti"],
    "region": "Sahel",
    "city": null,
    "landscape": "Wüste",
@@ -31,7 +31,7 @@
     "begin": 2007,
     "end": 2030
  },
- "concept": "Critical Zone",
+ "concept": "Critical Zones",
  "topic": "Desertifikation",
  "subtopic": "Landnutzung",
  "keywords": ["Sahel","Geographie","Globaler Wandel", "Global change", "Globalisierung", "sustainable land management", "agroforestry", "great green wall", "community engagement", "climate change", "agriculture", "desertification"], 
