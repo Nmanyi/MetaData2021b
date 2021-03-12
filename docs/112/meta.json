@@ -1,0 +1,68 @@
+{
+ "id": "65",
+ "language": "de",
+ "title": "Der Secure Fence Act - Verringerung von Migration oder Verlagerung?",
+ "abstract": "Der 'Secure Fence Act' (SFA) war eine amtliche Handlung des Senats und des Repräsentantenhauses im amerikanischen Kongress, welche am 26. Oktober 2006 genehmigt wurde.  Das Ziel des SFA war die operationale Kontrolle der internationalen Land- und Seegrenzen der Vereinigten Staaten. Im SFA wurde festgelegt, dass das Secretary of Homeland Security die Grenzen überwachen und die Einwanderung illegaler Menschen verhindern solle, mithilfe von Kontrollen, Kameras und Barrieren.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/65/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/65/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/65/icon.png",
+ "authors": [
+   { 
+     "firstname": "Saskia",
+     "name": "Engelfried",
+     "email": "engelfried.saskia@web.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Amerika",
+   "country": null,
+   "countries": ["USA", "Mexiko"],
+   "region": null,
+   "city": null,
+   "landscape": null,
+   "latitude": 31.7428265,
+   "longitude": -107.7943877
+ },
+ "period": {
+    "begin": 2006,
+    "end": 2020
+ },
+ "concept": "Diskursanalyse",
+ "topic": "Migration",
+ "subtopic": "Politik",
+ "keywords": ["Grenze USA Mexiko","Secure Fence Act","Migration"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
