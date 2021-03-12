@@ -1,0 +1,68 @@
+{
+ "id": "51",
+ "language": "de",
+ "title": "Globale Vision – Urbanes Handeln. Die Rolle von Städten und Stadtplanung in den SDGs",
+ "abstract": "Der Gipfel der Vereinten Nationen zu Nachhaltiger Entwicklung im September 2015 verabschiedete die so genannte „Agenda 2030“, ein Rahmen, der helfen soll, die nachhaltige Entwicklung zwischen 2015 und 2030 anzuleiten. Mit den darin festgelegten Zielen ist die Agenda 2030 ein Aktionsplan für die Menschen, den Planeten und den Wohlstand. Durch die Billigung eines eigenständigen Ziels Nr.11 für Städte mit dem Titel „Nachhaltige Städte und Gemeinden“, erkennen die Vereinten Nationen  die Stadtentwicklung als eine transformative Kraft auf dem Weg zu einer weltweiten nachhaltigen Entwicklung an. Doch wie wird eine nachhaltige Entwicklung in Städten und Gemeinden vorangebracht? Wie wird der allseits bekannte Ausspruch „Global denken – lokal handeln“ in der Praxis umgesetzt?",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/51/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/51/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/51/icon.png",
+ "authors": [
+   { 
+     "firstname": "Kira",
+     "name": "Hoffmann",
+     "email": "hoffmann.kira@posteo.de",
+     "freidok": null,
+     "orcid": null
+   }
+],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": null,
+   "city": null,
+   "landscape": "Großstadt",
+   "latitude": 8.8,
+   "longitude": 49.5
+},
+ "period": {
+    "begin": 2015,
+    "end": 2030
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Klimawandel", 
+ "subtopic": "Urbanisierung",
+ "keywords": ["Nachhaltigkeit","SDG","Agenda 2030"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
+
