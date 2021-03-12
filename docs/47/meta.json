@@ -1,0 +1,67 @@
+{
+ "id": "47",
+ "language": "de",
+ "title": "Wo Rosen sind, sind auch Dornen - Rosenanbau am Lake Naivasha in Kenia",
+ "abstract": "In Kenia am Lake Naivasha befindet sich das größte Blumenanbaugebiet Afrikas und das wichtigste für Europa. Auf riesigen Blumenfarmen werden dort zwei Drittel aller verkauften Rosen in Deutschland produziert. Die Region um den Naivashasee bietet mehrere Standortvorteile, birgt allerdings auch einige Schattenseiten. Der Rosenanbau erfolgt unter enormem Wasserverbrauch – in einem Land mit Wasserknappheit. Durch die in den letzten Jahrzenten drastische Expansion der Blumenfarmen kam es zu einer massiven Verschmutzung des Naivashasees und zu Seespiegelschwankungen. Die dortige Zuwanderung und das prognostizierte starke Bevölkerungswachstum verschärft diese Problematik.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/47/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/47/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/47/icon.png",
+ "authors": [
+   { 
+     "firstname": "Nicole",
+     "name": "Renz",
+     "email": "nicole.renz@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": "null"
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Kenia",
+   "region": "null",
+   "city": "Naivasha",
+   "landscape": "Feuchtgebiet",
+   "latitude": -0.7172858,
+   "longitude": -36.4307929
+ },
+ "period": {
+    "begin": 2021,
+    "end": 2021
+ },
+ "concept": "Wirkpfade",
+ "topic": "Ressourcen, Wasser",
+ "subtopic": "Rosenanbau",
+ "keywords": ["Rosenanbau2021"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
