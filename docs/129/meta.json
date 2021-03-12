@@ -1,0 +1,70 @@
+{
+ "id": "129",
+ "language": "de",
+ "title": "'Nach dem Eis: Zukünftige Seen in Österreich ",
+ "abstract": "Chancen und Risiken zukünftiger Seen, die durch den Gletscherrückhgang entstehen",
+ "year": 2022,
+ "freidok": "166128",
+ "doi": "10.6094/UNIFR/166128",
+ "pdf2": "https://freidok.uni-freiburg.de/fedora/objects/freidok:166128/datastreams/FILE1/content",
+ "image": "https://freidok.uni-freiburg.de/document/getLogoByPath?mode=freidok&filename=166128_1&mime=png",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2020/10/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2020/10/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2020/10/icon.png",
+ "authors": [
+   { 
+     "firstname": "Fritz",
+     "name": "Haider",
+     "email": "haiderfritz@gmail.com",
+     "freidok": "269446",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Österreich",
+   "region": "Alpen",
+   "city": "Sölden",
+   "landscape": "Gebirge",
+   "latitude": -42.45994,
+   "longitude": -73.866829
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2020
+ },
+ "concept": "Globaler Wandel - ein neues Gesicht der Erde?",
+ "topic": "Ressourcen",
+ "subtopic": "Global Change",
+ "keywords": ["Glacier","lakes","Permafrost"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
