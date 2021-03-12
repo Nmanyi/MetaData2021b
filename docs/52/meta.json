@@ -23,8 +23,8 @@
    "region": "New South Wales",
    "city": "Sydney",
    "landscape": "Großstadt",
-   "latitude": -33.8678500°
-   "longitude": 151.2073200°
+   "latitude": -33.8678500,
+   "longitude": 151.2073200
  },
  "period": {
     "begin": 2008,
