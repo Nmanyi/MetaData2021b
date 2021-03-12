@@ -1,0 +1,66 @@
+{
+ "id": "101",
+ "language": "de",
+ "title": "Paris sera toujours Paris? Eine Stadt im Umbruch",
+ "abstract": "Paris gehört zu einer der dichtesten Großstädte Europas. Aufgrund zahlreicher touristischer, kultureller und wirtschaftlicher Anziehungspunkte in der Region, pendeln täglich millionenfach Pendler durch den Ballungsraum Grand Paris. Ein derartig verdichteter urbaner Raum birgt im Zuge des fortschreitenden Klimawandels zahlreiche Problem- und Risikofelder, die im Zuge einer nachhaltigen Stadtplanung zu betrachten sind. Die Stadt Paris ist sich in ihrer  Klimaverantwortung bewusst und formuliert in ihrem Plan Climat de Paris 2050 ehrgeizige Ziele für die Mitte des Jahrhunderts. Um Paris für die Zukunft zu rüsten, plant die Stadt zahlreiche Groß- und Kleinprojekte.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/101/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/101/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Marvin",
+     "name": "Meidinger",
+     "email": "marvinmeidinger@gmail.com",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Frankreich",
+   "region": "Ile-de-France",
+   "city": "Paris",
+   "landscape": "Großstadt",
+   "latitude": 48.864716,
+   "longitude": 2.349014
+ },
+ "period": {
+    "begin": 2020,
+    "end": 2050
+ },
+ "concept": "Vulnerabel&Resilienz",
+ "topic": "Urbanisierung",
+ "subtopic": "Landnutzung",
+ "keywords": ["Paris","Hitzeinseln","Grünachsen"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
