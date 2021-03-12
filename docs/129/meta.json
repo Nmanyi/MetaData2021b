@@ -2,7 +2,7 @@
  "id": "129",
  "language": "de",
  "title": "'Nach dem Eis: Zukünftige Seen in Österreich ",
- "abstract": "Chancen und Risiken zukünftiger Seen, die durch den Gletscherrückhgang entstehen",
+ "abstract": "Chancen und Risiken zukünftiger Seen, die durch den Gletscherrückgang entstehen",
  "year": 2021,
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData2021b/129/poster.pdf",
@@ -30,9 +30,9 @@
     "begin": 1950,
     "end": 2020
  },
- "concept": "Globaler Wandel - ein neues Gesicht der Erde?",
+ "concept": "Risiko",
  "topic": "Ressourcen",
- "subtopic": "Global Change",
+ "subtopic": "Erwärmung",
  "keywords": ["Glacier","lakes","Permafrost"], 
  "sources": [
    {
