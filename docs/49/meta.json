@@ -1,0 +1,126 @@
+{
+ "id": "49",
+ "language": "de",
+ "title": "Käfighaltung unter Wasser - Aquakulturen und Tierwohl",
+ "abstract": "Obwohl die Käfighaltung von Geflügel in Europa seit 2012 verboten ist und der Schutz von Nutztieren an Land immer stärker reguliert wird, existieren solche Schutzmaßnahmen für aquatische Nutztiere praktisch nicht. Denn aktuell stehen der Profit und die Rentabilität von Fischerzeugnissen im Vordergrund. Das Bewusstsein für den Tierschutz muss im aquatischen Bereich noch gefördert werden, ebenso wie die Naturverträglichkeit solcher Produktionsformen. Dazu braucht es zukünftig innovative Lösungsansätze und eine Distanzierung von konventionellen Haltungsformen.",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/49/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/49/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/49/icon.png",
+ "authors": [
+   { 
+     "firstname": "Jan",
+     "name": "Merkle",
+     "email": "merkle-jan@web.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Norwegen",
+   "region": "Vestland",
+   "city": "Lykling",
+   "landscape": "Küste",
+   "latitude": 59.701944,
+   "longitude": 5.182222,
+ },
+ "period": {
+    "begin": 1950,
+    "end": 2021
+ },
+ "concept": "Pfadanaylse",
+ "topic": "Landwirtschaft",
+ "subtopic": "Ernährung",
+ "keywords": ["Aquakulktur","Tierwohl","Geografie","Wandel","Globalisierung","Lachszucht"], 
+ "sources": [
+   {
+      "type": "Zeitschrift",
+      "authors": "Bergleiter, Stefan",
+      "year": 2016,
+      "title": "Aquakultur als Alternative: Vom Problem zur Lösung ",
+      "doi": "",
+      "url": "https://www.wiso-net.de/document/OEKO__56b761a3de852800aca21e31f9ef5f875da9f189",
+      "journal": "politische ökologie. (145):90-90",
+      "volume": null,
+      "publisher": "",
+      "pages": "6"
+   },
+   {
+      "type": "Zeitschrift",
+      "authors": "Palm, Harry W. ; Bischoff, Adrian A.",
+      "year": 2016,
+      "title": "Aquakultur - quo vadis?! ; Nachhaltige Fischzucht in modernen Produktionssystemen",
+      "doi": "10.1002/biuz.201610591",
+      "url": "",
+      "journal": "Biologie in unserer Zeit ; volume 46, issue 2, page 118-125 ; ISSN 0045-205X",
+      "volume": null,
+      "publisher": "2016 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim",
+      "pages": "8"
+   },
+	{
+      "type": "Buch",
+      "authors": "Lozan, J. L. ; Rachor, Eike ; Reise, Karsten ; Sündermann, J. ; Westernhagen, H. v.",
+      "year": 2003,
+      "title": "Marikultur im Nordseeraum: Status quo, Probleme und Tendezen",
+      "doi": "",
+      "url": "https://epic.awi.de/id/eprint/11612/",
+      "journal": "Warnsignale aus Nordsee und Wattenmeer. Eine aktuelle Umweltbilanz.",
+      "volume": null,
+      "publisher": "Wissenschaftliche Auswertungen, Hamburg",
+      "pages": "10"
+   },
+   {
+      "type": "",
+      "authors": "Hubold, Gerd ; Klepper, Rainer",
+      "year": 2013,
+      "title": "Die Bedeutung von Fischerei und Aquakultur für die globale Ernährungssicherung",
+      "doi": "10.3220/WP_3_2013",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "Johann Herinrich von Thünen-Institut",
+      "pages": "106"
+   },
+   {
+      "type": "Zeitschrift",
+      "authors": "Stramer, Andreas",
+      "year": 2009,
+      "title": "Ökologische Aquakultur als Alternative",
+      "doi": "",
+      "url": "https://orgprints.org/21090/#?",
+      "journal": "Ökologie & Landbau, 151 (3)",
+      "volume": null,
+      "publisher": "",
+      "pages": "4"
+   },
+   {
+      "type": "",
+      "authors": "Gudding, Roar",
+      "year": 2012,
+      "title": "Disease prevention as basis for sustainable aquaculture",
+      "doi": "10.13140/2.1.2229.3441",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "FAO Fisheries and Aquaculture Technical Paper, No 547",
+      "pages": "6"
+   },
+   {  
+      "type": "",
+      "authors": "FAO",
+      "year": 2018,
+      "title": "FAO publication catalogue 2018",
+      "doi": "",
+      "url": "http://www.fao.org/publications/card/en/c/CA1598EN/",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": "207"
+   }
+ ]
+  
+
+
+}
