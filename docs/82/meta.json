@@ -1,0 +1,45 @@
+{
+ "id": "82",
+ "language": "en",
+ "title": "Running out of sand: Sand mining in South Asia",
+ "abstract": "---",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/82/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/82/thumbnail.png",
+ "authors": [
+	{ 
+     "firstname": "Melanie",
+     "name": "Feeß",
+     "email": "Melli29@t-online.de",
+     "freidok": null,
+     "orcid": "0000-0003-4026-5428"
+   }
+],
+"location": {
+   "continent": "Asia",
+   "country": null,
+   "region": "South Asia",
+   "landscape": null,
+   "latitude": 26.9,
+   "longitude": 72.2
+},
+"concept": "Vulnerabel&Resilienz",
+ "topic": "Ressourcen",
+ "subtopic": "Rohstoffe",
+ "keywords": ["sand mining","ecology","society"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+]
