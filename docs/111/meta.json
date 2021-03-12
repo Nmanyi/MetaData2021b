@@ -1,0 +1,68 @@
+{
+ "id": "111",
+ "language": "de",
+ "title": "Klimawandel und Felsstürze in den Alpen",
+ "abstract": "Der Klimawandel im Hochgebirge bringt Auswirkungen in vielen unterschiedlichen Bereichen der Alpen mit sich. Dazu zählen unter anderem Alpenflora und -fauna, die Hydrologie, der Tourismus wie diverse Naturgefahren und -katastrophen. Vor allem die Felsstürze können große Schäden anrichten.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/111/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/111/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/111/icon.png",
+ "authors": [
+   { 
+     "firstname": "Anna",
+     "name": "Wittig",
+     "email": "anna.wittig@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": { 
+   "continent": "Europa",
+   "country": null,
+   "countries": ["Deutschland", "Österreich", "Schweiz", "Italien", "Frankreich"],
+   "region": "",
+   "city": "",
+   "landscape": "Gebirge",
+   "latitude": 47.41349
+   "longitude": 10.97992
+ },
+ "period": {
+    "begin": 1850,
+    "end": 2100
+ },
+ "concept": "Risiko",
+ "topic": "Klimawandel",
+ "subtopic": "Katastrophe",
+ "keywords": ["Klimawandel","Mitteleuropa","Zukunft"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
