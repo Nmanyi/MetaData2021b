@@ -1,0 +1,55 @@
+{
+ "id": "105",
+ "language": "de",
+ "title": "ÖKOLOGISCHE ASPEKTE DES SAND MININGS: driving forces, proximate causes & impacts am Beispiel der Südwestküste Indiens",
+ "abstract": "Die globale Nachfrage nach Sand steigt stetig an, denn unsere moderne Gesellschaft ist im wahrsten Sinne des Wortes auf Sand gebaut: Sand steckt in Beton, Glas, Straßen, Lacken, Farben, Klebstoffen, Flugzeugen, Kosmetika, Microchips, und wird in vielen Küstenregionen bereits zur Landgewinnung durch Aufschüttung genutzt. Der Mensch ist zur geologischen Kraft geworden - doch wie so oft auch zum Leidwesen der Natur. Auch wenn es lokale Unterschiede gibt, lassen sich weltweit Muster in den treibenden Kräften, den direkten Ursachen und den ökologischen Folgen identifizieren.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/105/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/105/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/105/icon.png",
+ "authors": [
+   { 
+     "firstname": "Valentin",
+     "name": "Traub",
+     "email": "valentin.traub.us@gmail.com",
+     "freidok": null,
+     "orcid": "0000-0001-5209-2443"
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": "Indien",
+   "region": "Kerala",
+   "city": "Kochi",
+   "landscape": "Küste",
+   "latitude": 9.9312,
+   "longitude": 76.2673
+ },
+ "period": {
+    "begin": 1980,
+    "end": 2021
+ },
+ "concept": "Wirkpfade",
+ "topic": "Ressourcen",
+ "subtopic": "Biodiversität",
+ "keywords": ["Sand Mining","Sandabbau","Kommodifizierung"], 
+ "sources": [
+   {
+      "type": "Vortrag",
+      "authors": "Annika Mattissek",
+      "year": 2020,
+      "title": "Globaler Wandel - Neoliberalisierung von Natur",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
