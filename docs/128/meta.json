@@ -1,0 +1,67 @@
+{
+ "id": "128",
+ "language": "de",
+ "title": "Horrorszenario 'Day Zero', Die Wasserkrise die Kapstadt von 2015-2018 bedrohte.",
+ "abstract": "Kapstadt und die Provinz Western Cape wurden in den Jahren 2015 bis 2018 von einer noch nie dagewesenen Dürre heimgesucht. Die Dämme, die die Region massgeblich mit Wasser versorgen, drohten zu versiegen. Die Regenfälle gingen aufgrund des El Nino Effekts dramatisch zurück. Gleichzeitig stiegen die Wasserverbräuche durch das Bevölkerungswachstum und den Tourismusboom stark. Die Metropolregion Kapstadt sah sich in einer sehr kritischen Lage da klar abzusehen war, dass der Region das Wasser in absehbarer Zeit ausgehen würde. Das Datum des «Day Zero» wurde täglich in den Nachrichten publiziert, der Wasserverbrauch wurde unter strengen Massnahmen reduziert. Dank der wieder zunehmenden Regenfälle und den Wassersparmassnahmen ist die Metropolregion Kapstadt heute wieder in einer relativ guten Situation. ",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/128/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/128/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/128/icon.png",
+ "authors": [
+   { 
+     "firstname": "Chanette",
+     "name": "Le Roux",
+     "email": "chanette.leroux@stud.ph-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Südafrika",
+   "region": "Western Cape",
+   "city": "Cape Town",
+   "landscape": "Mediterranean",
+   "latitude": -33.918861,
+   "longitude": 18.423300
+ },
+ "period": {
+    "begin": 2015,
+    "end": 2018
+ },
+ "concept": "Risiko",
+ "topic": "Wasser",
+ "subtopic": "Klimaextreme",
+ "keywords": [], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
