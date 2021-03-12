@@ -1,0 +1,91 @@
+﻿{
+ "id": "66",
+ "language": "en",
+ "title": "Great Green Wall",
+ "abstract": "The Sahel zone is highly affected by climate change. Low rainfall and rising temperatures lead to drought and desertification of wide parts of the Sahel zone and subsequently to famine and poverty. To combat desertification and the concomitant loss of livability, the African Union initiated the Great Green Wall project - a program that enables local communities to sustainably improve livability, ensures food security and fuels economic growth. These massive efforts are made by conserving nature: sustainable land management is established, areas are reforested and diversity is significantly increased. The Poster illustrates, how community-lead, near-natural action can contribute to increase livability and economic growth by preserving ecosystems.",
+ "year": 2021,
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/66/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/66/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/66/icon.png",
+ "authors": [
+   { 
+     "firstname": "Britta",
+     "name": "Hars",
+     "email": "hars.britta@gmail.com",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": null,
+
+C
+D
+A
+B
+A
+B
+A
+B
+B
+A
+A
+   "country": ["Mauretanien","Mali","Burkina Faso","Niger","Nigeria","Tschad","Senegal","Sudan","Eritrea","Aethiopien","Dschibuti"],
+   "region": "Sahel",
+   "city": null,
+   "landscape": "Wüste",
+   "latitude": 19.064317,
+   "longitude": 13.543691
+ },
+ "period": {
+    "begin": 2007,
+    "end": 2030
+ },
+ "concept": "Critical Zone",
+ "topic": "Desertifikation",
+ "subtopic": "Landnutzung",
+ "keywords": ["Sahel","Geographie","Globaler Wandel", "Global change", "Globalisierung", "sustainable land management", "agroforestry", "great green wall", "community engagement", "climate change", agriculture", "desertification"], 
+ "sources": [
+   {
+      "type": "UNCCD Publications",
+      "authors": "Climatekos gGmbH; UNCCD (Hrsg.)",
+      "year": 2020,
+      "title": "The Great Green Wall. Implementation Status and Way Ahead to 2030",
+      "isbn": "978-92-95118-26-3",
+      "url": "https://www.unccd.int/publications/great-green-wall-implementation-status-and-way-ahead-2030",
+      "journal": "",
+      "volume": null,
+      "publisher": "United Nations Convention to Combat Desertification (UNCCD)",
+      "pages": "68"
+   },
+   {
+      "type": "",
+      "authors": "Jonathan Davies",
+      "year": 2017,
+      "title": "Biodiversity and the Great Green Wall: Managing nature for sustainable development in the Sahel",
+      "doi": "10.2305/IUCN.CH.2017.10.en",
+      "url": "https://portals.iucn.org/library/node/46819",
+      "journal": "",
+      "volume": null,
+      "publisher": "IUCN",
+      "pages": "66"
+   },
+{
+      "type": "",
+      "authors": "OSS, CEN-SAD",
+      "year": 2008,
+      "title": "The Great Green Wall Initiative for the Sahara and the Sahel",
+      "isbn": "978-9973-856-27-2",
+      "url": "https://portals.iucn.org/library/node/46819",
+      "journal": "OSS Introductory Note",
+      "volume": "Numer 3",
+      "publisher": "Sahara and Sahel Observatory (OSS)",
+      "pages": "44"
+   }
+ ]
+  
+
+
+}
