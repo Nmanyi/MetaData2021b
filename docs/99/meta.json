@@ -1,0 +1,68 @@
+{
+ "id": "99",
+ "language": "de",
+ "title": "Masdar - Die Öko-Stadt in der öko für ökonomisch steht",
+ "abstract": "Masdar löst alle Probleme und zwar immer mit der richtigen Technologie. Aber ist das wirklich so einfach? Und was wird in Abu Dhabi eigentlich unter Nachhaltigkeit verstanden?",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/99/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/99/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/99/icon.png",
+ "authors": [
+   { 
+     "firstname": "Jan",
+     "name": "Hopfer",
+     "email": "jan.hopfer@students.uni-freiburg.de",
+     "freidok": null,
+     "orcid": null
+   },
+  
+ ],
+ "location": {
+   "continent": "Naher Osten",
+   "country": "Vereinigte Arabische Emirate",
+   "region": "",
+   "city": "Abu Dhabi",
+   "landscape": "Wüste",
+   "latitude": 24.427853,
+   "longitude": 54.620568
+ },
+ "period": {
+    "begin": 2007,
+    "end": 2021
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Urbanisierung",
+ "subtopic": "Energie",
+ "keywords": ["Masdar","eco-city","smart-city"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
