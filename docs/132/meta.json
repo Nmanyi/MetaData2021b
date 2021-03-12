@@ -1,0 +1,66 @@
+{
+ "id": "132",
+ "language": "de",
+ "title": "'Mobilität der Zukunft' - nur grün angestrichen?"",
+ "abstract": "Die Mobilität hat einen erheblichen Anteil am globalen Treibhauseffekt. Verschiedene Akteur*innen sehen verschiedene Wege, aus diesem Dilemma herauszukommen. Neben Suffizienzüberlegungen und Effizienzsteigerungen ist eine wichtige Strategie die Dekarbonisierung und somit auch die Elektrifizierung der (individuellen) Mobilität. Zwei Technologien erweisen sich vielversprechend: Brennstoffzellenelektromobilität und Batterieelektromobilität. Doch sind sie wirklich so klimafreundlich, wie gepriesen?",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/132/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/132/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/132/icon.png",
+ "authors": [
+   { 
+     "firstname": "Niklas",
+     "name": "Maier",
+     "email": "nikimaier@gmail.com",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "region": null,
+   "city": null,
+   "landscape": null,
+   "latitude": 48.5913585,
+   "longitude": 5.6376773
+ },
+ "period": {
+    "begin": 2018
+    "end": 2030
+ },
+ "concept": "Diskursanalyse",
+ "topic": "Ressourcen",
+ "subtopic": "Verkehr",
+ "keywords": ["Klimawandel","E-Mobilität","Brennstoffzelle"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
