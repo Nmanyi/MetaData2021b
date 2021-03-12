@@ -1,0 +1,128 @@
+{
+ "id": "116",
+ "language": "de",
+ "title": "Technische Beschneiung im Skitourismus: Eine Zwischenbilanz",
+ "abstract": "Die Antwort des alpinen Skitourismuses auf den Klimawandel ist klar, und sie lautet: Technische Beschneiung. In Zahlen bedeutet dies, dass sich die beschneibare Pistenfläche beispielsweise in der Schweiz verdoppelt und in Bayern fast verdreifacht hat (Hahn, 2004). Dieser massive Infrastrukturausbau ist damit zu erklären, dass bei einer Erwärmung des Klimas um +2°C nur noch etwa 60% der Skigebiete in den Alpen als schneesicher gelten und damit auf technische Maßnahmen angewiesen sind. Was hat das wiederum für Folgen für die Umwelt? Wie hoch ist der Wasser- und Energiebedarf von technischer Beschneiung? Ist der Skitourismus letztendlich Klimawandeltreiber oder doch nur Klimawandelverlierer?",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/116/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/116/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/116/icon.png",
+ "authors": [
+   { 
+     "firstname": "Yannic",
+     "name": "Irion",
+     "email": "yannic.irion@web.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": null,
+   "countries": ["Frankreich", "Monaco", "Italien", "Schweiz", "Liechtenstein", "Deutschland", "Österreich", "Slowenien"],
+   "region": "Alpen",
+   "city": "",
+   "landscape": "Gebirge",
+   "latitude": 47.0,
+   "longitude": 10.0
+ },
+ "period": {
+    "begin": 1961,
+    "end": 2021
+ },
+ "concept": "Footprint",
+ "topic": "Energie",
+ "subtopic": "Wasser",
+ "keywords": ["Skitourismus","Klimawandel","Footprint"], 
+ "sources": [
+   {
+      "type": "Dokumentation",
+      "authors": "Jäschke, Limpert, Schraeder, Wanner",
+      "year": 2021,
+      "title": "Ausgeschneit - Skitourismus in der Krise",
+      "doi": "",
+      "url": "https://www.ardmediathek.de/ard/video/reportage-und-dokumentation/ausgeschneit-skitourismus-in-der-krise/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3JlcG9ydGFnZSBfIGRva3VtZW50YXRpb24gaW0gZXJzdGVuL2Y4OTcxYzhmLThhYWUtNGVmNS1iNWFjLWZjZWY1OGNkNThjOQ/",
+      "journal": "",
+      "volume": null,
+      "publisher": "SWR",
+      "pages": ""
+   },
+   {
+      "type": "Bild",
+      "authors": "Müseler, Arne",
+      "year": 2018,
+      "title": "Obertauern austria snowmaking 2",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Obertauern_austria_snowmaking_2.jpg",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "Abegg, Bruno",
+      "year": 2009,
+      "title": "Herausforderung Klimawandel",
+      "doi": "",
+      "url": "https://www.zora.uzh.ch/id/eprint/27066/1/Abegg_Herausforderung_Klimawandel_2009_Vf.pdf",
+      "journal": "Swiss Equity Magazin",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "",
+      "year": 2017,
+      "title": "Wintersport mit Folgen: das Ökosystem Alpen.",
+      "doi": "",
+      "url": "https://www.umwelt-im-unterricht.de/hintergrund/wintersport-mit-folgen-das-oekosystem-alpen/",
+      "journal": "",
+      "volume": null,
+      "publisher": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "de Jong, Carmen",
+      "year": 2020,
+      "title": "Umweltauswirkungen der Kunstschneeproduktion in den Skigebieten der Alpen",
+      "doi": "",
+      "url": "https://www.researchgate.net/profile/Carmen-De-Jong/publication/342305335_Umweltauswirkungen_der_Kunstschneeproduktion_in_den_Skigebieten_der_Alpen/links/5fec6b1445851553a00573b1/Umweltauswirkungen-der-Kunstschneeproduktion-in-den-Skigebieten-der-Alpen.pdf",
+      "journal": "Geographische Rundschau 6-2020",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "Hahn, Felix",
+      "year": 2004,
+      "title": "Künstliche Beschneiung im Alpenraum- Ein Hintergrundbericht",
+      "doi": "",
+      "url": "https://www.lfu.bayern.de/natur/freizeitnutzung/beschneiungsanlagen/doc/cirpa_dossier_kunstschnee.pdf",
+      "journal": "alpMedia",
+      "volume": null,
+      "publisher": "CIPRA-International",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "Kerckhoff, Jan",
+      "year": 2020,
+      "title": "Skitourismus: Wie klimaschädlich ist Kunstschnee wirklich?",
+      "doi": "",
+      "url": "https://www.br.de/nachrichten/wissen/skitourimus-wie-umweltschaedlich-ist-kunstschnee-wirklich,RBYdTCf",
+      "journal": "",
+      "volume": null,
+      "publisher": "BR24",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
