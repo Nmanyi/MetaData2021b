@@ -1,0 +1,60 @@
+{
+ "id": "118",
+ "language": "de",
+ "title": "Klimaschutz um jeden Preis? - Konflikte in Chiapas um REDD+ & Co",
+ "abstract": "Die Internationale Gemeinschaft verfolgt bei ihrem Kampf gegen den Klimawandel die Strategie der Kommodifizierung von Wäldern, genauer: dem Kohlenstoff den diese zu Haufe speichern. Die Folgen, die damit einhergehen, treffen einige jedoch besonders schwer und reißen teils alte Wunden auf. So ist es nicht verwunderlich, dass REDD+-Projekte von zahlreichen Konflikten geprägt sind.",
+ "year": 2021,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/118/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/118/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/118/icon.png",
+ "authors": [
+   { 
+     "firstname": "Johanna Luise",
+     "name": "Klatt",
+     "email": "klatt_luise@web.de"
+   }
+ ],
+ "location": {
+   "continent": "Nordamerika",
+   "country": "Mexiko",
+   "region": "Chiapas",
+   "city": "Amador Hernández",
+   "landscape": "Wald",
+   "latitude": 16.53606095537895,
+   "longitude": -91.33130413386652
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Klimawandel",
+ "subtopic": "Landnutzung",
+ "keywords": ["REDD+", "Entwaldung"],
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
