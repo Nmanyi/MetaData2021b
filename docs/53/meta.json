@@ -1,0 +1,104 @@
+{
+ "id": "53",
+ "language": "en",
+ "title": "Achieving Land Degradation Neutrality in South Africa by 2030",
+ "abstract": "In synergy with SDG 15, target 15.3, to strive to achieve a land degradation-neutral world by 2030, the UNCCD has initiated an LDN target setting programme, which 127 nations so far committed to. As one of those nations, South Africa’s government has developed national and sub-national targets to face the pressing threat of land degradation. With a land surface made of 91% dryland, the country is especially prone to desertification, degradation and drought, while their population is highly dependant on agricultural activities to obtain food security. The Sustainable Land Management Programme intends to secure multiple ecosystem benefits in 3 pilot sites to implement nationwide policies.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/53/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/53/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/53/icon.png",
+ "authors": [
+   { 
+     "firstname": "Laura-Marlena",
+     "name": "Quast",
+     "email": "laura.quast@jupiter.uni-freiburg.de",
+     "freidok": null,
+     "orcid": "0000-0001-8448-322X"
+   }
+ ],
+ "location": {
+   "continent": "Afrika",
+   "country": "Südafrika",
+   "regions": "Nama Karoo, Eastern Cape, Limpopo",
+   "landscape": "Trockengebiet",
+   "latitude": -30,
+   "longitude": 23
+ },
+ "period": {
+    "begin": 2015,
+    "end": 2030
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Landnutzung",
+ "subtopic": "Desertifikation",
+ "keywords": ["Globaler Wandel","Global Change","Landdegradation","Land Degradation Neutrality","Nachhaltigkeit","Sustainability",
+				"Südafrika","South Africa","Sustainable Land Management","Nachhaltige Landnutzung"], 
+ "sources": [
+   {
+      "type": "Project Document",
+      "authors": "Department of Environmental Affairs (DEA)",
+      "year": 2015,
+      "title": "United Nations Development Programme Project Document",
+      "doi": "",
+      "url": "https://publicpartnershipdata.azureedge.net/gef/PMISGEFDocuments/Land%20Degradation/South%20Africa%20-%20(5327)%20-%20Securing%20Multiple%20Ecosystems%20Benefit%20Through%20SLM%20i/06-08-15_Project_Document_PAD.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "GEF",
+      "pages": ""
+   },
+   {
+      "type": "Website",
+      "authors": "UNCCD",
+      "year": 2021,
+      "title": "Achieving Land Degradation Neutrality",
+      "doi": "",
+      "url": "https://www.unccd.int/actions/achieving-land-degradation-neutrality",
+      "journal": "",
+      "volume": null,
+      "publisher": "UNCCD",
+      "pages": ""
+   },
+   {
+      "type": "Report",
+      "authors": "DEA",
+      "year": 2018,
+      "title": "South Africa: Final country report of the LDN Target Setting Programme",
+      "doi": "",
+      "url": "https://knowledge.unccd.int/countries/south-africa",
+      "journal": "",
+      "volume": null,
+      "publisher": "DEA",
+      "pages": ""
+   },
+   {
+      "type": "Website",
+      "authors": "United Nations",
+      "year": 2021,
+      "title": "The 17 Goals",
+      "doi": "",
+      "url": "https://sdgs.un.org/goals",
+      "journal": "",
+      "volume": null,
+      "publisher": "UN",
+      "pages": ""
+   },
+   {
+      "type": "Book",
+      "authors": "Hoffman, M.T., Todd, S., Ntshona, Z., Turner, S.",
+      "year": 1999,
+      "title": "Land degradation in South Africa",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "National Botanical Institute",
+      "pages": ""
+   }
+   
+ ]
+  
+
+
+}
