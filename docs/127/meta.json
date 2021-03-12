@@ -1,0 +1,69 @@
+{
+ "id": "127",
+ "language": "de",
+ "title": "Halb voll oder halb leer? Grundwasserkonflikte in Lüneburg",
+ "abstract": "Wasser ist eine wichtige und begehrte Ressource, dessen Nutzungsdruck sich durch Klimawandel und Bevölkerungswachstum weiter erhöht. Konflikte um Grundwasser sind auch in Deutschland. Exemplarisch dafür wird die Ausweitung der Grundwasserentnahme von Coca-Cola in Lüneburg thematisiert. Ausgehend von einer Perspektive der Politischen Ökologie, wird Grundwasser als eine Entität ins Zentrum von Mensch-Umwelt-Beziehungen gestellt.",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/127/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/127/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/127/icon.png",
+ "authors": [
+   { 
+     "firstname": "Henny",
+     "name": "Poppinga",
+     "email": null,
+     "freidok": null,
+     "orcid": null
+  }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "Niedersachsen",
+   "city": "Lüneburg",
+   "landscape": "Großstadt",
+   "latitude": 53.2509,
+   "longitude": 10.41409
+  },
+ "period": {
+    "begin": null,
+    "end": null
+ },
+ "concept": "Politische Ökologie",
+ "topic": "Wasser",
+ "subtopic": "Ressourcen (4076675-5)",
+ "keywords": ["Nutzungsdruck","Klimawandel","Vulnerabilität"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
+
+ 
