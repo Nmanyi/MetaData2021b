@@ -1,0 +1,66 @@
+{
+ "id": "91",
+ "language": "de",
+ "title": "Warum sollte uns das 1,5 Grad Ziel interessieren?- Folgen des Klimawandel in Deutschland & Mitteleuropa ",
+ "abstract": "Klima Experten gehen davon aus das sich die globale Mitteltemperatur  von 1850 (Beginn der Industriellen Revolution) bis heute  um etwa 0.85°C erhöht hat. In Mitteleuropa liegt die Temperatur noch deutlich darüber mit +1,2°C. Dabei hat sich das Tempo der Erhöhung in den letzten Jahrzehnten deutlich beschleunigt was auch hauptsächlich an dem exponentiellen Bevölkerungswachstum der Erde liegt und dem gleichzeitigen Wachstum der Weltwirtschaft und des Verkehrs. Welche Folgen hat der Klimawandel für Mitteleuropa?",
+ "year": 2021,
+ "freidok": null,
+ "orientation": "landscape",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/91/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/91/thumbnail.png",
+ "authors": [
+   { 
+     "firstname": "Felix",
+     "name": "Simon",
+     "email": "felixsim@web.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": { 
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "",
+   "city": "",
+   "landscape": null,
+   "latitude": 47.997791,
+   "longitude": 7.842609
+ },
+ "period": {
+    "begin": 1850,
+    "end": 2100
+ },
+ "concept": "Wirkpfade",
+ "topic": "Klimawandel",
+ "subtopic": "Erwärmung",
+ "keywords": ["Klimawandel","Mitteleuropa","Zukunft"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
