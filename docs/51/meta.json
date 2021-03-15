@@ -21,6 +21,7 @@
  "location": {
    "continent": "Europa",
    "country": "Deutschland",
+   "countries": ["Deutschland","Daenemark","Tschechische Republik"]
    "region": null,
    "city": null,
    "landscape": "Großstadt",
