@@ -26,8 +26,8 @@
    "region": null,
    "city": null,
    "landscape": null,
-   "latitude": 9.00,
-   "longitude": 51.00
+   "latitude": 51.00,
+   "longitude": 9.00
  },
  "period": {
     "begin": 2020,
