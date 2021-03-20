@@ -1,0 +1,68 @@
+{
+ "id": "120",
+ "language": "de",
+ "title": "Die Reise eines Billig-T-Shirts - Wer sind die wahren Gewinner der Textilproduktion?",
+ "abstract": "Wir Menschen lieben es für kleines Geld günstig und viel einzukaufen. Wir zahlen für ein Billig-T-Shirt 4,95 Euro. Doch fragen wir uns wieso das möglich ist? Wie aus dem Rohstoff Baumwolle ein T-Shirt in unserem Kleiderschrank wird? Welchen Weg das T-Shirt, welches ich trage zurückgelegt hat? Welche Folgen dies auf die Umwelt hat? Wie viel Wasser dabei verbraucht wurde? Und welche sozialen Folgen dies hat? Unter welchen Bedingungen die Näher/innen arbeiten? Aber vor allem: Wie kann es sein, dass wir mit ein paar Euro schon ein T-Shirt kaufen können? Und wie schafft es ein Konzern gleichzeitig enormen Profit daraus zu schlagen? „Made in Bangladesch/China/Turkey/Indonesia“ Bis ein T-Shirt auf dem Ladentisch liegt, hat es einiges über sich ergehen lassen: Glätten, Bleichen, Färben, Bedrucken. Dabei wird für ein übliches 250g T-Shirt 230g Chemikalien eingesetzt. Viele davon sind giftig, einige auch  krebserregend, vor allem besteht die ständige Gefahr für die Mitarbeiter*innen, welche ohne jeglichen Schutz mit diesen Chemikalien in Berührung kommen. Unter anderem ist dies eine enorme Belastung für die Umwelt, denn die eingesetzten Chemikalien werden oft ungeklärt in die Flüsse geleitet. Zudem wird beim Anbau als auch bei Färben Unmengen an Wasser benötigt. Zur Herstellung eines handelsüblichen T-Shirts werden bei der Baumwollproduktion allein schon 2.300 Liter Wasser verbraucht. Der Aralsee, der einst viertgrößte Binnensee der Erde ist heute eine Salzwüste, welcher 90% seiner Wassermenge verloren hat. Doch die Textilindustrie zieht auch soziale Folgen mit sich. Herrschende schlechte Arbeits- und Produktionsbedingungen, wie Verstöße gegen Menschenrechte, Überstunden, Hungerlohn, kein Brandschutz, keine Sicherheitsstandards etc. führen dazu, dass 2012 wegen eines Brandes in der Tazreen Kleiderfabrik in Bangladesch 117 Menschen starben und mehr als 200 Menschen verletzt wurden. Der Brand war der bis dahin schwerste in einer Textilfabrik in Bangladesch.  Dies ist jedoch kein Einzelfall, es kam in den vergangenen Jahren schon mehrfach zu Katastrophen, über die in den Medien kaum berichtet wurden. Welchen Weg legt also ein T-Shirt zurück, bis es zum Verkauf im Laden liegt, und wohin kommt es nachdem es im Altkleidercontainer gelandet ist, wie zu Niedrigpreisen hergestellt werden kann und welche soziale als auch ökologische Folgen dies für die Erde hat, erfährt man, wenn man bei der Reise eines Billig-T-Shirts genauer hinsieht. Eins ist schon mal klar: die globale Kosumentengruppe fragt nicht, sie kauft.",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "https://globalchanges.github.io/MetaData2021b/120/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/MetaData2021b/120/thumbnail.png",
+ "icon": "https://globalchanges.github.io/MetaData2021b/120/icon.png",
+ "authors": [
+   { 
+     "firstname": "Nadine",
+     "name": "Tato",
+     "email": "nadine.s96@gmx.de",
+     "freidok": null,
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Asien",
+   "country": null,
+   "countries": ["Usbekistan", "Kasachstan"],
+   "region": "Aralsee",
+   "city": "",
+   "landscape": "Wüste",
+   "latitude": 50.595999,
+   "longitude": 9.000000
+ },
+ "period": {
+    "begin": 1973,
+    "end": 2016
+ },
+ "concept": "Wirkpfade",
+ "topic": "Rohstoffe",
+ "subtopic": "Wasser",
+ "keywords": ["Baumwollanbau","Kinderarbeit","Arbeits- und Produktionsbedingungen"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2021,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}
