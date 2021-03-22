@@ -2,9 +2,9 @@
  "id": "114",
  "language": "de",
  "title": "Entstehung neuer Gletscherseen in den Schweizer Alpen. Land- und wirtschaftliche Aufwertung oder neue Bedrohung von oben?",
- "abstract": "Die Veränderungen durch den Klimawandel begleiten und bestimmen mittlerweile unser aller Leben. Die Temperaturen steigen, worunter besonders die Gletscher weltweit zu kämpfen haben. In den letzten Jahrzehnten schwinden diese immer schneller. Aus den abfließenden Schmelzwässer entstehen Gletscherseen. Doch diese führen zu Risiken, als auch Chancen für die Bevölkerungen. Welche das sein können, wird hier anhand des Beispiels der Gletscherseen in den Schweizer Alpen ergründet.",
+ "abstract": "Die Veränderungen durch den Klimawandel begleiten und bestimmen mittlerweile unser aller Leben. Die Temperaturen steigen, worunter besonders die Gletscher in den Hochgebirgen weltweit zu kämpfen haben. In den letzten Jahrzehnten schwinden diese immer schneller. Aus dem abfließenden Schmelzwasser entstehen Gletscherseen. Doch diese führen sowohl zu Risiken, als auch zu Chancen für die ortsansässige Bevölkerung. Welche das sein können, wird hier anhand des Beispiels der Gletscherseen in den Schweizer Alpen ergründet.",
  "year": 2021,
- "freidok": "",
+ "freidok": "194050",
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/MetaData2021b/114/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2021b/114/thumbnail.png",
@@ -14,8 +14,8 @@
      "firstname": "Sebastian",
      "name": "Braun",
      "email": "sebastian.braun@stud.ph-freiburg.de",
-     "freidok":"",
-     "orcid": null
+     "freidok":"194050",
+     "orcid": "0000-0003-0925-6689"
    }
  ],
  "location": {
@@ -36,28 +36,76 @@
  "subtopic": "Landnutzung",
  "keywords": ["Gletschersee","Klimawandel","Chancen- und Risiken","Energie","Wasser"], 
  "sources": [
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+    {
+      "type": "publication",
+      "authors": "Horstmann, B.",
+      "year": 2004,
+      "title": "Gletschersee-Ausbrüche in Nepal und der Schweiz - Neue Gefahren durch den Klimawandel.",
       "doi": "",
-      "url": "",
+      "url": "https://www.germanwatch.org/sites/default/files/publication/2638.pdf",
       "journal": "",
       "volume": null,
-      "publisher": "",
+      "publisher": "Germanwatch",
+      "pages": "12"
+   },
+   {
+      "type": "Diploma Thesis",
+      "authors": "Bartoloth, J.",
+      "year": 2018,
+      "title": "Hochgebirgsseen im Kanton Wallis - Verbreitung, Entwicklung und Gefahrenpotenzial",
+      "doi": "10.25365/thesis.53191",
+      "url": "http://othes.univie.ac.at/53191/1/55378.pdf",
+      "journal": "",
+      "volume": null,
+      "publisher": "Universität Wien",
+      "pages": "116"
+   },
+   {
+      "type": "internet document",
+      "authors": "Lohmann, D.",
+      "year": 2007,
+      "title": "Gletscherseen - Imposante Naturphänomene oder tickende Zeitbomben?.",
+      "doi": "",
+      "url": "https://www.scinexx.de/service/dossier_print_all.php?dossierID=91616",
+      "journal": "",
+      "volume": null,
+      "publisher": "Scinexx",
       "pages": ""
    },
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+      "type": "internet document",
+      "authors": "Alean, J.; Hambrey , M.",
+      "year": 2018,
+      "title": "Gletscher der Alpen.",
       "doi": "",
-      "url": "",
+      "url": "https://www.swisseduc.ch/glaciers/alps/index-de.html",
       "journal": "",
       "volume": null,
-      "publisher": "",
+      "publisher": "Swisseduc.ch",
+      "pages": ""
+   },
+   {
+      "type": "internet document",
+      "authors": "Hählen, N.",
+      "year": 2013,
+      "title": "Hier läuft ein Gletschersee aus.",
+      "doi": "",
+      "url": "https://gletscherg2g.wordpress.com/gruppe5-gletscherg2b_g5/",
+      "journal": "",
+      "volume": null,
+      "publisher": "Geltscherg2g",
+      "pages": ""
+   },
+   {
+      "type": "internet document",
+      "authors": "WWF",
+      "year": 2020,
+      "title": "Vom Sterben der Gletscher. Online unter:  [27.02.202",
+      "doi": "",
+      "url": "https://www.wwf.ch/de/stories/vom-sterben-der-gletscher",
+      "journal": "",
+      "volume": null,
+      "publisher": "WWF.ch",
       "pages": ""
    }
  ]
