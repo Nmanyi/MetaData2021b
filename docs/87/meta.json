@@ -36,29 +36,55 @@
  "subtopic": "Klimawandel",
  "keywords": ["Stadt","Gesundheit","Umweltgerechtigkeit"], 
  "sources": [
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+ {
+      "type": "website",
+      "authors": "Weltgesundheitsorganisation, Regionalbüro für Europa",
+      "year": 2019,
+      "title": "Gesundheitshinweise zur Prävention hitzebedingter Gesundheitsschäden. Neue und aktualisierte Hinweise für unterschiedliche Zielgruppen.",
+      "doi": null,
+      "url": "https://www.euro.who.int/__data/assets/pdf_file/0015/402072/PublicHealth-German5bis.pdf",
+      "publisher": "Weltgesundheitsorganisation"
    },
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "type": "Article",
+      "authors": "Kemper, Jan",
+      "year": 2018,
+      "title": "Ungleichheit in den Städten. Stadtentwicklung und soziale Ungleichheit",
+      "doi": null,
+      "url": "https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216890/stadtentwicklung-und-soziale-ungleichheit",
+      "publisher": "Bundeszentrale für politische Bildung"
+  },
+   {
+      "type": "Article",
+      "authors": "Bauriedl, Sybille",
+      "year": 2018,
+      "title": "Stadt und/oder Natur? Der Stellenwert von Natur in der Stadtentwicklung",
+      "url": "https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216881/natur-und-stadtentwicklung",
+      "publisher": "Bundeszentrale für politische Bildung"
+   },
+   {
+      "type": "Hintergrundpapier",
+      "authors": "Umweltbundesamt",
+      "year": 2009,
+      "title": "Feinstaubbelastung in Deutschland",
+      "url": "https://www.umweltbundesamt.de/publikationen/feinstaubbelastung-in-deutschland",
+      "publisher": "Umweltbundesamt"
+   },
+   {
+      "type": "Daten",
+      "authors": "Umweltbundesamt",
+      "year": 2020,
+      "title": "Gesundheitsrisiken durch Hitze",
+      "url": "https://www.umweltbundesamt.de/daten/umwelt-gesundheit/gesundheitsrisiken-durch-hitze#indikatoren-der-lufttemperaturheisse-tage-und-tropennachte",
+      "publisher": "Umweltbundesamt"
+   },
+   {
+      "type": "Daten",
+      "authors": "Senatsverwaltung für Stadtentwicklung und Wohnen Berlin",
+      "year": 2015,
+      "title": "Umweltatlas Berlin. Umweltgerechtigkeit",
+      "url": "https://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/i901.htm",
+      "publisher": "Senatsverwaltung für Stadtentwicklung und Wohnen Berlin"
    }
  ]
   

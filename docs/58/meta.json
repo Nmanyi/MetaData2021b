@@ -15,7 +15,7 @@
      "name": "Stech",
      "email": "calvinstech1@gmail.com",
      "freidok":"",
-     "orcid": ""
+     "orcid": "0000-0001-9210-6918"
    }
  ],
  "location": {
@@ -50,6 +50,13 @@
       "pages": "7 - 18"
    },
    {
+      "type": "study",
+      "authors": "UN-ESCWA & BGR",
+      "year": 2013,
+      "title": "Inventory of Shared Water Resources in Western Asia. Chapter 6: Jordan River Basin.",
+      "url": "https://waterinventory.org/sites/waterinventory.org/files/chapters/chapter-06-jordan-river-basin-web.pdf"
+   },
+   {
       "type": "chapter in book",
       "authors": "Venot, P., Courcier, R., Molle, F.",
       "year": 2013,
@@ -60,6 +67,20 @@
       "volume": null,
       "publisher": "Abasa, M.",
       "pages": "416 - 424"
+   },
+  {
+      "type": "dissertation",
+      "authors": "Bahouth, C.",
+      "year": 2010,
+      "title": "Konfliktstoff trotz Friedensquells: der Wasserkonflikt zwischen Israel und Palästina-die vergebene Chance einer nachhaltigen und gerechten Lösung.",
+      "url": "https://refubium.fu-berlin.de/bitstream/handle/fub188/11330/Chadi_Bahouth_diss.pdf?sequence=1&isAllowed=y"
+   },
+   {
+      "type": "article",
+      "authors": "Verner, D., Lee, D., Ashwill, M., & Wilby, R.",
+      "year": 2013,
+      "title": "Increasing resilience to climate change in the agricultural sector of the Middle East: The cases of Jordan and Lebanon.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/13123"
    }
  ]
   

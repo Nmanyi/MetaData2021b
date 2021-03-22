@@ -21,7 +21,7 @@
  "location": {
    "continent": "Asien",
    "country": null,
-   "countries": ["Usbekistan", "Kasachstan"],
+   "countries": ["Indien","China","Tansania","Deutschland","Bangladesch","Usbekistan", "Kasachstan"],
    "region": "Aralsee",
    "city": "",
    "landscape": "Wüste",

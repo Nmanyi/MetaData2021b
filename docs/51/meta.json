@@ -38,29 +38,75 @@
  "keywords": ["Nachhaltigkeit","SDG","Agenda 2030"], 
  "sources": [
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "type": "website",
+      "authors": null,
+      "year": 2020,
+      "title": "Umweltbundesamt (2020)",
+      "url": "https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-belastung-der-bevoelkerung-durch-0#die-wichtigsten-fakten",
    },
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
-   }
+      "type": "website",
+      "authors": null,
+      "year": 2021,
+      "title": "Zukunftsrat Hamburg",
+      "url": "https://www.zukunftsrat.de/ ",
+   },
+   {
+      "type": "website",
+      "authors": null,
+      "year": 2021,
+      "title": "Vnitrobloky (“inner blocks”)",
+      "url": "https://www.vnitrobloky.cz/",
+   },
+   {
+      "type": "website",
+      "authors": null,
+      "year": 2021,
+      "title": "Klima Bürger:innenrat Region Freiburg",
+      "url": "https://www.facebook.com/klimabuergerinnenratregionfreiburg",
+   },
+   {
+      "type": "website",
+      "authors": null,
+      "year": 2021,
+      "title": "Klima Bürger:innenrat Region Freiburg",
+      "url": "https://www.badische-zeitung.de/buergerrat-fuers-klima--200235409.html",
+   },
+   {
+      "type": "website",
+      "authors": "UN. General Assembly (69th sess.: 2014-2015). President. ",
+      "year": 2015,
+      "title": "Draft outcome document of the United Nations summit for the adoption of the post-2015 development agenda (A/RES/69/315)",
+      "url": "https://digitallibrary.un.org/record/800852?ln=en#record-files-collapse-header",
+   },
+   {
+      "type": "pdf",
+      "authors": null,
+      "year": 2016,
+      "title": "A Guide to Assist National and Local Governments to Monitor and Report on SDG Goal",
+      "url": "https://www.local2030.org/library/60/SDG-Goal-11-Monitoring-Framework-A-guide-to-assist-national-and-local-governments-to-monitor-and-report-on-SDG-goal-11-indicators.pdf",
+   },
+   {
+      "type": "pdf",
+      "authors": "United Nations, Department of Economic and Social Affairs, Population Division",
+      "year": 2019,
+      "title": "World Urbanization Prospects: The 2018 Revision (ST/ESA/SER.A/420)",
+      "url": "https://population.un.org/wup/Publications/Files/WUP2018-Report.pdf",
+   },
+   {
+      "type": "pdf",
+      "authors": "United Nations, Hrsg. Hauptabteilung Wirtschaftliche und Soziale Angelegenheiten (DESA)",
+      "year": 2020,
+      "title": "Ziele für nachhaltige Entwicklung – Bericht 2020",
+      "url": "https://www.un.org/Depts/german/millennium/SDG%20Bericht%202020.pdf",
+   },
+   {
+      "type": "pdf",
+      "authors": "The City of Copenhagen Department of Finance",
+      "year": 2018,
+      "title": "The Capital of Sustainable Development. The city of Copenhagen’s Action Plan for the Sustainable Development Goals",
+      "url": "https://international.kk.dk/sites/international.kk.dk/files/the_capital_of_sustainable_development_sustainable_development_goals_2018.pdf",
+   }  
  ]
   
 

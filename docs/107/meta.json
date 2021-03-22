@@ -41,10 +41,7 @@
       "authors": "Böschel, G., Viglione, A., Merz, R. et al.",
       "year": 2011,
       "title": "Auswirkungen des Klimawandels auf Hochwasser und Niederwasser",
-      "doi": "https://doi.org/10.1007/s00506-010-0269-z",
-      "url": "",
-      "journal": "",
-      "volume": null,
+      "doi": "10.1007/s00506-010-0269-z",
       "publisher": "Springer Natur",
       "pages": "21-30"
    },
@@ -53,12 +50,50 @@
       "authors": "Patt, H., Jüpner, R.",
       "year": 2001,
       "title": "Hochwasser-Handbuch. Auswirkungen und Schutz",
-      "doi": "https://doi.org/10.1007/978-3-658-26743-8",
-      "url": "",
-      "journal": "",
-      "volume": null,
+      "doi": "10.1007/978-3-658-26743-8",
       "publisher": "Springer Vieweg",
       "pages": "715"
+   },
+   {
+      "type": "Website",
+      "authors": "Administration des Services techniques de l'agriculture",
+      "year": 2021,
+      "title": "Wetterdaten",
+      "url": "https://www.agrimeteo.lu/Agrarmeteorologie"
+   },
+   {
+      "type": "Report",
+      "authors": "Hennegriff, W., Kolokotronis, V., Weber, H., Bartels, H.",
+      "year": 2006,
+      "title": "Klimawandel und Hochwasser",
+      "url": "https://www.accc.at/pdf/klimawandel_hochwasser.pdf"
+   },
+   {
+      "type": "Website",
+      "authors": "Landesamt für Umwelt Rheinland-Pfalz",
+      "year": 2021,
+      "url": "https://www.hochwasser-rlp.de/"
+   },
+   {
+      "type": "Article",
+      "authors": "Luxemburger Wort",
+      "year": 2021,
+      "title": "Hochwasser: Die Pegel fallen",
+      "url": "https://www.wort.lu/de/lokales/hochwasser-die-pegel-fallen-601da89dde135b9236e75460"
+   },
+   {
+      "type": "Article",
+      "authors": "Luxemburger Wort",
+      "year": 2021,
+      "title": "Mosel könnte ab Mittwoch wieder steigen",
+      "url": "https://www.wort.lu/de/lokales/mosel-koennte-ab-mittwoch-wieder-steigen-601514e6de135b9236c0d249"
+   },
+   {
+      "type": "Article",
+      "authors": "SWR Aktuell",
+      "year": 2021,
+      "title": "Hochwasser ist wie ein Stich in den Magen",
+      "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/in-reil-an-der-mosel-steht-das-wasser-huefthoch-100.html"
    }
  ]
   

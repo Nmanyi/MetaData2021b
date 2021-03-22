@@ -1,8 +1,8 @@
 {
  "id": "53",
  "language": "en",
- "title": "Achieving Land Degradation Neutrality in South Africa by 2030",
- "abstract": "In synergy with SDG 15, target 15.3, to strive to achieve a land degradation-neutral world by 2030, the UNCCD has initiated an LDN target setting programme, which 127 nations so far committed to. As one of those nations, South Africa’s government has developed national and sub-national targets to face the pressing threat of land degradation. With a land surface made of 91% dryland, the country is especially prone to desertification, degradation and drought, while their population is highly dependant on agricultural activities to obtain food security. The Sustainable Land Management Programme intends to secure multiple ecosystem benefits in 3 pilot sites to implement nationwide policies.",
+ "title": "South Africa is Making up for Lost Land",
+ "abstract": "In synergy with SDG 15, target 15.3, to strive to achieve a land degradation-neutral world by 2030, the UNCCD has initiated an LDN target setting programme, which 127 nations so far committed to. As one of these nations, South Africa’s government has developed national and sub-national targets to face the pressing threat of land degradation. With a land surface made of 91% dryland the country is especially prone to desertification, degradation and drought, while their population is highly dependant on agricultural activities to obtain food security. The Sustainable Land Management Programme intends to secure multiple ecosystem benefits in 3 pilot sites to implement nationwide policies.",
  "year": 2021,
  "freidok": null,
  "orientation": "landscape",
@@ -11,7 +11,7 @@
  "icon": "https://globalchanges.github.io/MetaData2021b/53/icon.png",
  "authors": [
    { 
-     "firstname": "Laura-Marlena",
+     "firstname": "Laura",
      "name": "Quast",
      "email": "laura.quast@jupiter.uni-freiburg.de",
      "freidok": null,
@@ -95,6 +95,14 @@
       "volume": null,
       "publisher": "National Botanical Institute, Cape Town",
       "pages": ""
+   },
+   {
+      "type": "Website",
+      "authors": "United Nations",
+      "year": 2021,
+      "title": "The 17 Goals",
+      "url": "https://sdgs.un.org/goals",
+      "publisher": "UN",
    }
    
  ]

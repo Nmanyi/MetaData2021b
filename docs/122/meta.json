@@ -40,18 +40,26 @@
  "keywords": ["Algen","Aquakulturen"], 
  "sources": [
    {
-      "type": "",
-      "authors": "",
-      "year": "",
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "type": "website",
+      "authors": "Algen Laden",
+      "title": "Zuckerkombu - japanische Algentradition - Was ist Zuckerkombu?",
+      "url": " https://www.algenladen.de/algen/zuckerkombu/ ",
+      "publisher": "Algenladen"
+   },
+   {
+      "type": "website",
+      "authors": "Ocean Rainforest ",
+      "year": 2021,
+      "title": "pictures",
+      "url": "http://www.oceanrainforest.com/pictures "
+   },
+  {
+      "type": "website",
+      "authors": "United Nations Department of global communication ",
+      "year": 2020,
+      "title": "Sustainable Development Goals, guidelines for the use of the SDG logo including the colour wheel, and 17 Icons",
+      "url": "https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf"
    }
-  
  ]
   
 

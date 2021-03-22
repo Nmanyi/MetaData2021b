@@ -2,7 +2,7 @@
  "id": "93",
  "language": "de",
  "title": "Essen wir in der EU den Regenwald in Brasilien?",
- "abstract": "Zusammenhänge des europäischen Konsums mit der Zerstörung des Amazonas-Regenwaldes UND der Cerrado Savanne in Brasilien durch Sojaanbau: Welche (negativen) Folgen hat der „Sojaboom“ für Brasilien?  Es werden sowohl der Amazonas-Regenwald als auch zunehmend die Cerrado-Savanne zerstört, um großflächig Sojafelder anzulegen und die Ernte unter anderem nach Europa zu exportieren. Hier wird der Großteil des Sojas an Schlachtvieh verfüttert.",
+ "abstract": "Zusammenhänge des europäischen Fleischkonsums mit der Zerstörung des Amazonas-Regenwaldes UND der Cerrado-Savanne in Brasilien durch Sojaanbau: Welche (negativen) Folgen hat der 'Sojaboom' für Brasilien?  Es werden sowohl der Amazonas-Regenwald als auch zunehmend die Cerrado-Savanne zerstört, um großflächig Sojafelder anzulegen und die Ernte unter anderem nach Europa zu exportieren. Hier wird der Großteil des Sojas an Schlachtvieh verfüttert. Die Nachfrage nach Fleisch und dementsprechend nach Soja-Importen nimmt kontinuierlich zu, wodurch die Problematik zunehmend verschärft wird.",
  "year": 2021,
  "freidok": "",
  "doi": "",
@@ -38,30 +38,78 @@
  "subtopic": "Ernährung", 
  "keywords": ["Rodung","Zerstörung","Sojaboom", "Biodiversität", "Indigene Völker", "Migration", "Wasser", "Klimawandel", "Verkehr", "Globalisierung"], 
  "sources": [
+
    {
-      "type": "",
-      "authors": "",
-      "year": "",
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "type": "Website",
+      "authors": "Deutsche Umwelthilfe e.V.",
+      "year": 2021,
+      "title": "Fleischproduktion ist die Hauptursache für Waldzerstörung in Südamerika",
+      "url": "https://www.duh.de/soja/",
+  },
+   {
+      "type": "Website",
+      "authors": "D-Maps",
+      "year": 2021,
+      "title": "Brazil",
+      "url": "https://d-maps.com/m/america/brazil/bresil/bresil58.gif ",
    },
    {
-      "type": "",
-      "authors": "",
+      "type": "Website",
+      "authors": "Food and Agriculture Organization oft the United Nations",
       "year": 2021,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
-   }
+      "title": "Crops",
+      "url": "http://www.fao.org/faostat/en/#data/QC/visualize",
+   },
+   {
+      "type": "Website",
+      "authors": "Pontes, Nádia",
+      "year": 2017,
+      "title": "Die Geheimnisse des Cerrado",
+      "url": "https://p.dw.com/p/2VWjR"
+  },
+   {
+      "type": "Statistik",
+      "authors": "Quarks",
+      "year": null,
+      "title": "So wenig Soja essen wir. Weltweite Sojanutzung",
+      "url": "https://external-preview.redd.it/i6HdHy6XjJQSv0Vz03PR05NaGUYGyjUjCKrj7kyIpMw.jpg?width=768&auto=webp&s=7fbe8e149c1152a1037d5a441dc3870ca2761c92"
+ },
+   {
+      "type": "Website",
+      "authors": "Ratzlaff, Sylvia",
+      "year": 2020,
+      "title": "Sojaproduktion bedroht brasilianischen Savannenwald. Rettet den Cerrado  deutsche Lebensmittelhändler fordern Entwaldungsstopp",
+      "url": "https://www.wwf.de/2020/juni/rettet-den-cerrado-deutsche-lebensmittelhaendler-fordern-entwaldungsstopp/"
+ },
+   {
+      "type": "Studie",
+      "authors": "Reichert, Tobias & Reichardt, Marion",
+      "year": 2011,
+      "title": "Saumagen und Regenwald. Klima- und Umweltwirkungen deutscher Agrarrohstoffimporte am Beispiel Sojaschrot: Ansatzpunkte für eine zukunftsfähige Gestaltung"
+ },
+   {
+      "type": "Website",
+      "authors": "Suchanek, Norbert",
+      "year": 2021,
+      "title": "Brasiliens bedrohte Galeriewälder. Corona bremste zwar die Wirtschaft, nicht aber die Brände und Rodungen",
+      "url": "https://www.neues-deutschland.de/artikel/1146455.cerrado-savanne-und-pantanal-brasiliens-bedrohte-galeriewaelder.html"
+ },
+   {
+      "type": "Website",
+      "authors": "Tönjes, Keno",
+      "year": 2006,
+      "title": "Mato Grosso - Zentrum der Entwaldung Amazoniens",
+      "url": "https://www.kooperation-brasilien.org/de/themen/landkonflikte-umwelt/wald-klima/mato-grosso-zentrum-der-entwaldung-amazoniens"
+ },
+ {
+      "type": "PDF",
+      "authors": "Sage, Oliver",
+      "year": 2006,
+      "title": "Atempause für den brasilianischen Regenwald. Weltgrößte Soja-Händler stimmen Moratorium für zwei Jahre zu",
+      "url": "https://www.kooperation-brasilien.org/de/themen/landkonflikte-umwelt/wald-klima/mato-grosso-zentrum-der-entwaldung-amazoniens",
+      "journal": "25 Jahre Greenpeace Deutschland: Taten statt Warten",
+      "volume": 7,
+ }
  ]
   
 
