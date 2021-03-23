@@ -36,28 +36,81 @@
  "keywords": [], 
  "sources": [
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "type": "pdf",
+      "authors": "Espejo Ordonio, D",
+      "year": 2018,
+      "title": "REDD+ Overview in Peru: Understanding its Failure through a Forest Governance Assessment",
+      "url": "https://repositorio-aberto.up.pt/bitstream/10216/116304/2/294384.pdf"
    },
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "type": "pdf",
+      "authors": "Zelli, F.; Erler, D.; Frank, S.; Hein, J.-I.; Hotz, H.; Santa Cruz Melgarejo, A.-M.",
+      "year": 2014,
+      "title": "Reducing Emissions from Deforestation and Degradation in Peru: a challenge to social inclusion and multi-level governance",
+      "url": "http://lup.lub.lu.se/search/ws/files/36042006/Zelli_et_al_2014_REDD_in_Peru.pdf"
+   },
+   {
+      "type": "pdf",
+      "authors": "Republic of Peru",
+      "year": 2014,
+      "title": "Emission reductions from deforestation fronts in the Peruvian Amazon",
+      "url": "https://www.forestcarbonpartnership.org/system/files/documents/CF10%20Peru%20ER-PIN%20Presentation.pdf"
+   },
+   {
+      "type": "weppage",
+      "authors": "Gifford, L.",
+      "year": 2018,
+      "title": "See the Carbon Through the Trees: Market-Based Climate Change Mitigation, Forest Carbon Offsets, and the Uneven Power of Carbon Accounting",
+      "url": "https://scholar.colorado.edu/downloads/sf268520m"
+   },
+   {
+      "type": "pdf",
+      "authors": "Chavez-Tafur, J. and Zagt, R. J.",
+      "year": 2014,
+      "title": "Towards Productive Landscapes",
+      "url": "http://www.etfrn.org/file.php/314/etfrn56web.pdf"
+   },
+   {
+      "type": "weppage",
+      "authors": "CIFOR, CEC, CIRAD, IFRI",
+      "year": 2020,
+      "title": "Project: Alto Mayo Conservation Initiative",
+      "url": "http://www.reddprojectsdatabase.org/view/project.php?id=204"
+   },
+   {
+      "type": "pdf",
+      "authors": "The Walt Disney Company",
+      "year": 2021,
+      "title": "2020 Corporate Social Responsibility Report",
+      "url": "https://thewaltdisneycompany.com/app/uploads/2021/02/2020-CSR-Report.pdf"
+   },
+   {
+      "type": "pdf",
+      "authors": "inistro del Ambiente (MINAM)",
+      "year": 2015,
+      "title": "Presentación de Perú de un Nivel de Referencia de Emisiones Forestales (NREF) para reducir las emisiones por deforestación en la Amazonía Peruana",
+      "url": "https://redd.unfccc.int/files/ 2015_submission_frel_peru_es.pdf"
+   },
+   {
+      "type": "pdf",
+      "authors": "Espinoza Llanos, R. and Feather, C.",
+      "year": 2011,
+      "title": "The reality of REDD+ in Peru: Between theory and practice",
+      "url": "https://www.forestpeoples.org/sites/fpp/files/publication/2011/11/reality-redd-peru-between-theory-and-practice-website-english-low-res.pdf"
+   },
+   {
+      "type": "pdf",
+      "authors": "Broekhoven, G.; Savenije, H.; von Scheliha, S.",
+      "year": 2012,
+      "title": "Moving Forward with Forest Governance",
+      "url": "https://www.bibalex.org/Search4Dev/files/419114/442089.pdf"
+   },
+   {
+      "type": "pdf",
+      "authors": "United Nations Framework Convention on Climate Change (UNFCCC)",
+      "year": 2010,
+      "title": "Cancun Agreement",
+      "url": "http://unfccc.int/resource/docs/2010/cop16/eng/07a01.pdf#page=26"
    }
  ]
   
