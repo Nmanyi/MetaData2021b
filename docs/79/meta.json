@@ -1,8 +1,8 @@
 {
  "id": "79",
  "language": "en",
- "title": "About „game changer“ and „silver bullets“: Negative emissions from carbon capture, storage and utilization",
- "abstract": "It’s gettin hotter here. Earth’s temperature is rising, mainly because of increasing carbon dioxide conzentrations in the atmosphere. To mitigate a dangerous turn to antrophogenic climate change it is necessary to decrease these CO2-levels. This can either be accomplished by lowering the CO2 output by changing worlds economy to be more carbon-neutral or by so called negative emissions by geoengineering approaches. There are various options to extract CO2 from the atmosphere. One is the direct air capture (DAC) with solvents applied to huge fans. By binding it to chemicals it is removed from the ambient air. After the CO2 is captured it can either be reused (carbon conversion and utilization - CCU) or stored (cabon capture and storage - CCS). The potential behind these „game changer“ technologies is huge but are they really a „silver bullet“?",
+ "title": "Negative emissions from carbon capture, storage About 'game changer' and 'silver bullets'",
+ "abstract": "It’s gettin hotter here. Earth’s temperature is rising, mainly because of increasing carbon dioxide conzentrations in the atmosphere. To mitigate a dangerous turn to antrophogenic climate change it is necessary to decrease these CO2-levels. This can either be accomplished by lowering the CO2 output by changing worlds economy to be more carbon-neutral or by so called negative emissions by geoengineering approaches. There are various options to extract CO2 from the atmosphere. One is the direct air capture (DAC) with solvents applied to huge fans. By binding it to chemicals it is removed from the ambient air. After the CO2 is captured it can either be reused or stored. The potential behind these „game changer“ technologies is huge but are they really a „silver bullet“?",
  "year": 2021,
  "freidok": "",
  "orientation": "landscape",
@@ -35,7 +35,7 @@
  "concept": "Politische Ökologie",
  "topic": "Klimawandel",
  "subtopic": "Stoffkreisläufe",
- "keywords": ["Carbon Removal","DAC","CCS","CCU"], 
+ "keywords": ["Carbon Removal","DAC","CCS"], 
  "sources": [
    {
       "type": "",
